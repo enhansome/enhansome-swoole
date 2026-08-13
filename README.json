@@ -118,7 +118,7 @@
             "last_commit": "2021-01-08T10:21:09Z",
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 969
+            "stars": 968
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2022-11-13T10:59:56Z",
             "owner": "louislivi",
             "repo": "SMProxy",
-            "stars": 1761
+            "stars": 1760
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-13T03:11:43Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1920
+            "stars": 1921
           }
         },
         {
@@ -384,7 +384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T04:26:14Z",
+            "last_commit": "2026-08-13T04:49:20Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 821
@@ -780,7 +780,7 @@
             "last_commit": "2022-02-13T14:04:09Z",
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1110
+            "stars": 1109
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-01-21T06:52:24Z",
             "owner": "lizhichao",
             "repo": "one",
-            "stars": 875
+            "stars": 874
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2026-06-02T15:09:35Z",
             "owner": "hunzhiwange",
             "repo": "queryphp",
-            "stars": 305
+            "stars": 304
           }
         },
         {
@@ -994,7 +994,7 @@
                 "last_commit": "2026-07-20T06:59:04Z",
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3881
+                "stars": 3880
               }
             },
             {
@@ -1008,7 +1008,7 @@
                 "last_commit": "2024-10-17T00:41:16Z",
                 "owner": "scil",
                 "repo": "LaravelFly",
-                "stars": 452
+                "stars": 451
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2022-01-15T16:35:46Z",
                 "owner": "huang-yi",
                 "repo": "shadowfax",
-                "stars": 350
+                "stars": 349
               }
             },
             {
@@ -1274,7 +1274,7 @@
             "last_commit": "2026-07-24T07:44:40Z",
             "owner": "Yurunsoft",
             "repo": "YurunHttp",
-            "stars": 260
+            "stars": 259
           }
         },
         {
@@ -1467,7 +1467,7 @@
             "last_commit": "2022-11-30T07:20:59Z",
             "owner": "kcloze",
             "repo": "swoole-jobs",
-            "stars": 578
+            "stars": 577
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-08-11T15:05:48Z",
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5361
+            "stars": 5360
           }
         },
         {
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:26:53.235Z",
+    "last_updated": "2026-08-13T07:56:49.189Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_sha": "8d50c7ece287855fdfde7f3a5b4338dcdfa13c08",
     "enhanced_repository": "enhansome/enhansome-swoole",
