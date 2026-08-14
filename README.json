@@ -370,7 +370,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T03:11:43Z",
+            "last_commit": "2026-08-13T11:11:10Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1921
@@ -384,7 +384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T04:49:20Z",
+            "last_commit": "2026-08-14T03:42:25Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 821
@@ -646,7 +646,7 @@
             "last_commit": "2026-08-10T14:12:16Z",
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6883
+            "stars": 6884
           }
         },
         {
@@ -963,10 +963,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "PHP",
-                "last_commit": "2026-08-13T03:59:54Z",
+                "last_commit": "2026-08-13T13:58:57Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4030
+                "stars": 4031
               }
             },
             {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-08-11T15:05:48Z",
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5360
+            "stars": 5361
           }
         },
         {
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 856
+            "stars": 858
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:56:49.189Z",
+    "last_updated": "2026-08-14T07:53:11.955Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_sha": "8d50c7ece287855fdfde7f3a5b4338dcdfa13c08",
     "enhanced_repository": "enhansome/enhansome-swoole",
