@@ -752,7 +752,7 @@
             "last_commit": "2026-03-18T21:49:24Z",
             "owner": "mix-php",
             "repo": "mix",
-            "stars": 1930
+            "stars": 1929
           }
         },
         {
@@ -966,7 +966,7 @@
                 "last_commit": "2026-08-13T13:58:57Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4031
+                "stars": 4033
               }
             },
             {
@@ -1554,10 +1554,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T15:05:48Z",
+            "last_commit": "2026-08-14T12:42:31Z",
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5361
+            "stars": 5362
           }
         },
         {
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:53:11.955Z",
+    "last_updated": "2026-08-15T07:00:24.427Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_sha": "8d50c7ece287855fdfde7f3a5b4338dcdfa13c08",
     "enhanced_repository": "enhansome/enhansome-swoole",
