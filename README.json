@@ -370,7 +370,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T11:11:10Z",
+            "last_commit": "2026-08-15T16:21:30Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1921
@@ -643,7 +643,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T14:12:16Z",
+            "last_commit": "2026-08-15T23:59:31Z",
             "owner": "hyperf",
             "repo": "hyperf",
             "stars": 6884
@@ -925,7 +925,7 @@
                 "last_commit": "2026-08-11T21:58:47Z",
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
-                "stars": 92
+                "stars": 93
               }
             }
           ]
@@ -966,7 +966,7 @@
                 "last_commit": "2026-08-13T13:58:57Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4033
+                "stars": 4034
               }
             },
             {
@@ -1780,9 +1780,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:00:24.427Z",
+    "last_updated": "2026-08-16T07:01:27.271Z",
     "original_repository": "swoole/awesome-swoole",
-    "original_repository_sha": "8d50c7ece287855fdfde7f3a5b4338dcdfa13c08",
+    "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
     "title": "Awesome Swoole with stars"

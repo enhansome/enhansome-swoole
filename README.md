@@ -88,13 +88,13 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Distribution
 
-* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,921 | 🐛 36 | 🌐 PHP | 📅 2026-08-13 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
+* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,921 | 🐛 35 | 🌐 PHP | 📅 2026-08-15 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
 * [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 821 | 🐛 1 | 🌐 Ruby | 📅 2026-08-14 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 249 | 🐛 23 | 🌐 C | 📅 2026-05-22 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,884 | 🐛 445 | 🌐 PHP | 📅 2026-08-10 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,884 | 🐛 444 | 🌐 PHP | 📅 2026-08-15 - A coroutine framework that focuses on hyperspeed and flexibility.
   * Official components (an incomplete list)
     * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11
     * [hyperf/amqp](https://github.com/hyperf/amqp) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-06-07
@@ -136,7 +136,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * [Hypervel](https://hypervel.org) - A Laravel-style framework with native coroutine support for high performance, built on top of Swoole.
 * [LightMVC](https://lightmvcframework.net) - A modular, event-driven and Swoole-enabled framework that allows to easily create PHP applications by using any PHP library.
 * Laminas/Mezzio/Zend Framework
-  * [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ⭐ 92 | 🐛 16 | 🌐 PHP | 📅 2026-08-11 - Provides the support of Swoole into a [Mezzio](https://docs.mezzio.dev/) application.
+  * [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ⭐ 93 | 🐛 16 | 🌐 PHP | 📅 2026-08-11 - Provides the support of Swoole into a [Mezzio](https://docs.mezzio.dev/) application.
 
 ## Framework Integration
 
@@ -146,7 +146,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * Drupal
   * [The Swoole module for Drupal](https://www.drupal.org/project/swoole) - The Swoole module for Drupal supercharges your website's performance by serving it via the Swoole or the OpenSwoole PHP server. The (Open)Swoole PHP server boots Drupal once, keeps it in memory and then feeds it requests at supersonic speeds. Thanks to [daffie](https://www.drupal.org/u/daffie).
 * Laravel
-  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,033 | 🐛 21 | 🌐 PHP | 📅 2026-08-13 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
+  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,034 | 🐛 21 | 🌐 PHP | 📅 2026-08-13 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
   * ~~[swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) ⚠️ Archived~~ - A high-performance HTTP server to run Laravel/Lumen application on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend *Laravel Octane* instead, or *Hypervel* if you need coroutine support.
   * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,880 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
   * ~~[scil/laravel-fly](https://github.com/scil/LaravelFly) ⚠️ Archived~~ - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online. The repository was archived by its owner in 2024. Please use *Laravel Octane* instead.
@@ -192,8 +192,8 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 ## Logging
 
 * [upscale/swoole-newrelic](https://github.com/upscalesoftware/swoole-newrelic) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2023-01-18 - New Relic APM and Browser monitoring of Swoole web-server.
-* [hyperf/logger](https://github.com/hyperf/logger) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - The logging component of Hyperf. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,397 | 🐛 33 | 🌐 PHP | 📅 2026-08-01, with PSR-3 interface implemented.
-* [mix/monolog](https://github.com/mix-php/monolog) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-09-30 - A coroutine-friendly logging library. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,397 | 🐛 33 | 🌐 PHP | 📅 2026-08-01. :globe\_with\_meridians:
+* [hyperf/logger](https://github.com/hyperf/logger) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - The logging component of Hyperf. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,398 | 🐛 33 | 🌐 PHP | 📅 2026-08-01, with PSR-3 interface implemented.
+* [mix/monolog](https://github.com/mix-php/monolog) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-09-30 - A coroutine-friendly logging library. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,398 | 🐛 33 | 🌐 PHP | 📅 2026-08-01. :globe\_with\_meridians:
 * [open-telemetry/context-swoole] - Async Swoole/OpenSwoole context implementation for OpenTelemetry PHP.
 
 ## Serverless
@@ -295,4 +295,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
