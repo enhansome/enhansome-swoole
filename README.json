@@ -384,7 +384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T03:42:25Z",
+            "last_commit": "2026-08-16T10:24:14Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 821
@@ -643,10 +643,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T23:59:31Z",
+            "last_commit": "2026-08-17T01:58:30Z",
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6884
+            "stars": 6883
           }
         },
         {
@@ -994,7 +994,7 @@
                 "last_commit": "2026-07-20T06:59:04Z",
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3880
+                "stars": 3881
               }
             },
             {
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:01:27.271Z",
+    "last_updated": "2026-08-17T07:19:01.914Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
     "enhanced_repository": "enhansome/enhansome-swoole",
