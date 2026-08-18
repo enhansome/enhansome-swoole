@@ -373,7 +373,7 @@
             "last_commit": "2026-08-15T16:21:30Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1921
+            "stars": 1922
           }
         },
         {
@@ -966,7 +966,7 @@
                 "last_commit": "2026-08-13T13:58:57Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4034
+                "stars": 4035
               }
             },
             {
@@ -994,7 +994,7 @@
                 "last_commit": "2026-07-20T06:59:04Z",
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3881
+                "stars": 3880
               }
             },
             {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-08-14T12:42:31Z",
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5362
+            "stars": 5361
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:19:01.914Z",
+    "last_updated": "2026-08-18T07:07:14.857Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
     "enhanced_repository": "enhansome/enhansome-swoole",
