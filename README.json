@@ -1892,8 +1892,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:08:29.725Z",
+    "last_updated": "2026-08-19T12:55:48.021Z",
     "original_repository": "swoole/awesome-swoole",
+    "original_repository_id": 304274477,
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
