@@ -88,13 +88,13 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Distribution
 
-* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,923 | 🐛 35 | 🌐 PHP | 📅 2026-08-15 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
-* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 821 | 🐛 1 | 🌐 Ruby | 📅 2026-08-18 - 🍻 Homebrew tap for PHP extensions.
+* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,923 | 🐛 35 | 🌐 PHP | 📅 2026-08-20 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
+* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 821 | 🐛 1 | 🌐 Ruby | 📅 2026-08-20 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 249 | 🐛 23 | 🌐 C | 📅 2026-05-22 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,886 | 🐛 443 | 🌐 PHP | 📅 2026-08-17 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,888 | 🐛 444 | 🌐 PHP | 📅 2026-08-17 - A coroutine framework that focuses on hyperspeed and flexibility.
   * Official components (an incomplete list)
     * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11
     * [hyperf/amqp](https://github.com/hyperf/amqp) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-06-07
@@ -126,7 +126,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * [lizhichao/one](https://github.com/lizhichao/one) ⭐ 874 | 🐛 1 | 🌐 PHP | 📅 2026-01-21 - A simple and efficient framework that works both under PHP-FPM and Swoole.
 * [Ubiquity](https://github.com/phpMv/ubiquity) ⭐ 700 | 🐛 13 | 🌐 PHP | 📅 2025-11-30 - A powerful and fast framework for efficient design.
 * [Simps](https://github.com/simple-swoole/simps) ⭐ 477 | 🐛 1 | 🌐 PHP | 📅 2022-05-30 - A simple, lightweight and high-performance PHP coroutine framework.
-* [Nano](https://github.com/hyperf/nano) ⭐ 433 | 🐛 10 | 🌐 PHP | 📅 2023-10-08 - A Hyperf-based coroutine microframework.
+* [Nano](https://github.com/hyperf/nano) ⭐ 434 | 🐛 10 | 🌐 PHP | 📅 2023-10-08 - A Hyperf-based coroutine microframework.
 * [QueryPHP](https://github.com/hunzhiwange/queryphp) ⭐ 304 | 🐛 0 | 🌐 PHP | 📅 2026-06-02 - A modern, high performance PHP progressive coroutine framework. :globe\_with\_meridians:
 * ~~[Resonance](https://github.com/distantmagic/resonance) ⚠️ Archived~~ - Designed from the ground up to facilitate interoperability and messaging between services in your infrastructure and beyond. The repository was archived by its owner in 2026.
   * Official documentation: <https://resonance.distantmagic.com/>
@@ -148,7 +148,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * Laravel
   * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,036 | 🐛 22 | 🌐 PHP | 📅 2026-08-18 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
   * ~~[swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) ⚠️ Archived~~ - A high-performance HTTP server to run Laravel/Lumen application on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend *Laravel Octane* instead, or *Hypervel* if you need coroutine support.
-  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,880 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,879 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
   * ~~[scil/laravel-fly](https://github.com/scil/LaravelFly) ⚠️ Archived~~ - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online. The repository was archived by its owner in 2024. Please use *Laravel Octane* instead.
   * [huang-yi/shadowfax](https://github.com/huang-yi/shadowfax) ⭐ 349 | 🐛 12 | 🌐 PHP | 📅 2022-01-15 - Runs your Laravel application on Swoole.
   * [toxmc/fast-laravel](https://github.com/toxmc/fast-laravel) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2021-05-17 - A Swoole-based high-performance HTTP server to speed up your Laravel applications. :globe\_with\_meridians:
@@ -220,8 +220,8 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Third-party SDK
 
-* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,362 | 🐛 37 | 🌐 PHP | 📅 2026-08-14 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 91 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,135 | 🐛 3 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
-* [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) ⭐ 889 | 🐛 9 | 🌐 PHP | 📅 2026-07-19 - A coroutine-friendly payment SDK for Alipay and WeChat Pay. :globe\_with\_meridians:
+* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,363 | 🐛 37 | 🌐 PHP | 📅 2026-08-14 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 91 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,135 | 🐛 3 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
+* [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) ⭐ 890 | 🐛 9 | 🌐 PHP | 📅 2026-07-19 - A coroutine-friendly payment SDK for Alipay and WeChat Pay. :globe\_with\_meridians:
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin) ⭐ 434 | 🐛 2 | 🌐 PHP | 📅 2026-07-09 - An OAuth library that provides built-in support for QQ, WeChat, Weibo, Github, Gitee, etc. :globe\_with\_meridians:
 
 ## Web Applications
@@ -236,7 +236,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Miscellaneous
 
-* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 861 | 🐛 17 | 🌐 Rust | 📅 2026-06-29 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 248 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
+* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 864 | 🐛 17 | 🌐 Rust | 📅 2026-06-29 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 249 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
 * [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) ⭐ 457 | 🐛 7 | 🌐 PHP | 📅 2021-03-04 - A simple and efficient library implemented HTML5's server-sent events using PHP.
 * [k8s/client](https://github.com/k8s-client/client) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2023-01-28 - A Kubernetes API client for PHP.
 * [crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2026-04-19 - A library to prevent overloading an unavailable service by doubling the timeout each iteration. It works under both Swoole (in non-blocking mode) and PHP-FPM.
@@ -295,4 +295,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
