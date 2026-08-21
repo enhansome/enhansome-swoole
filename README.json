@@ -393,10 +393,10 @@
             "archived": false,
             "id": 361670419,
             "language": "PHP",
-            "last_commit": "2026-08-20T06:30:17Z",
+            "last_commit": "2026-08-21T07:06:24Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1923
+            "stars": 1922
           }
         },
         {
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 272870557,
             "language": "Ruby",
-            "last_commit": "2026-08-20T05:22:07Z",
+            "last_commit": "2026-08-20T18:10:37Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 821
@@ -1892,7 +1892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:09:03.511Z",
+    "last_updated": "2026-08-21T07:10:25.708Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_id": 304274477,
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",

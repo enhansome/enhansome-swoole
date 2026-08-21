@@ -41,7 +41,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-* [leocarmo/circuit-breaker-php](https://github.com/leocarmo/circuit-breaker-php) ⭐ 302 | 🐛 3 | 🌐 PHP | 📅 2025-07-01 - PHP implementation of Circuit Breaker Pattern.
+* [leocarmo/circuit-breaker-php](https://github.com/leocarmo/circuit-breaker-php) ⭐ 303 | 🐛 3 | 🌐 PHP | 📅 2025-07-01 - PHP implementation of Circuit Breaker Pattern.
 * [Phluxor] - An implementation of the Actor model for PHP.
 
 ## Client Packages
@@ -88,7 +88,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Distribution
 
-* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,923 | 🐛 35 | 🌐 PHP | 📅 2026-08-20 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
+* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,922 | 🐛 36 | 🌐 PHP | 📅 2026-08-21 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
 * [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 821 | 🐛 1 | 🌐 Ruby | 📅 2026-08-20 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 249 | 🐛 23 | 🌐 C | 📅 2026-05-22 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
 
@@ -216,7 +216,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Testing
 
-* [deminy/counit](https://github.com/deminy/counit) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2026-07-28 - To run time/IO related unit tests (e.g., sleep function calls, database queries, API calls, etc) faster using Swoole.
+* [deminy/counit](https://github.com/deminy/counit) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 - To run time/IO related unit tests (e.g., sleep function calls, database queries, API calls, etc) faster using Swoole.
 
 ## Third-party SDK
 
@@ -295,4 +295,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
