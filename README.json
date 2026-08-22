@@ -393,7 +393,7 @@
             "archived": false,
             "id": 361670419,
             "language": "PHP",
-            "last_commit": "2026-08-21T07:06:24Z",
+            "last_commit": "2026-08-22T04:14:07Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1922
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-17T01:58:30Z",
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6888
+            "stars": 6889
           }
         },
         {
@@ -1772,7 +1772,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 864
+            "stars": 865
           }
         },
         {
@@ -1892,7 +1892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:10:25.708Z",
+    "last_updated": "2026-08-22T07:02:24.970Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_id": 304274477,
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
