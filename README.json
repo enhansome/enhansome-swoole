@@ -126,7 +126,7 @@
             "last_commit": "2021-01-08T10:21:09Z",
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 272870557,
             "language": "Ruby",
-            "last_commit": "2026-08-23T06:58:51Z",
+            "last_commit": "2026-08-23T07:27:09Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-22T10:31:58Z",
             "owner": "swoole",
             "repo": "swoole-cli",
-            "stars": 249
+            "stars": 250
           }
         }
       ],
@@ -1025,7 +1025,7 @@
                 "archived": false,
                 "id": 350018351,
                 "language": "PHP",
-                "last_commit": "2026-08-18T13:40:08Z",
+                "last_commit": "2026-08-23T17:25:20Z",
                 "owner": "laravel",
                 "repo": "octane",
                 "stars": 4036
@@ -1652,7 +1652,7 @@
             "archived": false,
             "id": 100355112,
             "language": "PHP",
-            "last_commit": "2026-08-22T15:24:04Z",
+            "last_commit": "2026-08-24T07:27:08Z",
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5363
@@ -1772,7 +1772,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -1892,7 +1892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:04:13.867Z",
+    "last_updated": "2026-08-24T07:31:18.412Z",
     "original_repository": "swoole/awesome-swoole",
     "original_repository_id": 304274477,
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
