@@ -89,7 +89,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 ## Distribution
 
 * [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,924 | 🐛 36 | 🌐 PHP | 📅 2026-08-22 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
-* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 822 | 🐛 1 | 🌐 Ruby | 📅 2026-08-23 - 🍻 Homebrew tap for PHP extensions.
+* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 822 | 🐛 5 | 🌐 Ruby | 📅 2026-08-25 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 251 | 🐛 23 | 🌐 C | 📅 2026-05-22 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
 
 ## Frameworks
