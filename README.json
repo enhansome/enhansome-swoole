@@ -396,7 +396,7 @@
             "last_commit": "2026-08-22T18:34:45Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1923
+            "stars": 1927
           }
         },
         {
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 272870557,
             "language": "Ruby",
-            "last_commit": "2026-08-26T02:33:33Z",
+            "last_commit": "2026-08-27T09:02:57Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 822
@@ -982,7 +982,7 @@
                 "archived": false,
                 "id": 231146229,
                 "language": "PHP",
-                "last_commit": "2026-08-11T21:58:47Z",
+                "last_commit": "2026-08-26T19:16:10Z",
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
                 "stars": 93
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-23T17:25:20Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4035
+                "stars": 4037
               }
             },
             {
@@ -1655,7 +1655,7 @@
             "last_commit": "2026-08-24T07:34:54Z",
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5364
+            "stars": 5366
           }
         },
         {
@@ -1772,7 +1772,7 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 876
+            "stars": 879
           }
         },
         {
@@ -1892,9 +1892,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:11:13.689Z",
-    "original_repository": "swoole/awesome-swoole",
-    "original_repository_id": 304274477,
+    "last_updated": "2026-08-27T12:08:28.264Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 304274477,
+      "language": null,
+      "last_commit": "2026-08-16T00:04:48Z",
+      "owner": "swoole",
+      "repo": "awesome-swoole",
+      "stars": 267
+    },
     "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
