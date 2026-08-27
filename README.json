@@ -408,7 +408,7 @@
             "archived": false,
             "id": 272870557,
             "language": "Ruby",
-            "last_commit": "2026-08-27T09:02:57Z",
+            "last_commit": "2026-08-27T17:15:25Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 822
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-23T17:25:20Z",
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4037
+                "stars": 4038
               }
             },
             {
@@ -1892,7 +1892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:28.264Z",
+    "last_updated": "2026-08-27T17:40:26.396Z",
     "original_repository_info": {
       "archived": false,
       "id": 304274477,
