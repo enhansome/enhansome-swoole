@@ -16,7 +16,8 @@
             "owner": "simps",
             "repo": "mqtt",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "swoole",
             "repo": "ext-zookeeper",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "swoole",
             "repo": "ext-postgresql",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "hyperf",
             "repo": "jet",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "hyperf",
             "repo": "elasticsearch",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "hyperf",
             "repo": "etcd",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "hyperf",
             "repo": "consul",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Client Packages"
@@ -127,7 +134,8 @@
             "owner": "osgochina",
             "repo": "swoole-crontab",
             "stars": 968
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "hyperf",
             "repo": "crontab",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Cronjobs"
@@ -163,7 +172,8 @@
             "owner": "louislivi",
             "repo": "SMProxy",
             "stars": 1760
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "open-smf",
             "repo": "connection-pool",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "simple-swoole",
             "repo": "db",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "hyperf",
             "repo": "database",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "mix-php",
             "repo": "database",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "mix-php",
             "repo": "redis-subscriber",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "mix-php",
             "repo": "redis",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Database"
@@ -274,7 +290,8 @@
             "owner": "apache",
             "repo": "skywalking-php",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "swoole",
             "repo": "debugger",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "group",
@@ -309,7 +327,8 @@
                 "owner": "upscalesoftware",
                 "repo": "swoole-blackfire",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -337,7 +356,8 @@
                 "owner": "swoole",
                 "repo": "docker-swoole",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "adhocore",
                 "repo": "docker-lemp",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -374,7 +395,8 @@
                 "owner": "swoole",
                 "repo": "ide-helper",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -396,8 +418,9 @@
             "last_commit": "2026-08-22T18:34:45Z",
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1927
-          }
+            "stars": 1928
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -408,11 +431,12 @@
             "archived": false,
             "id": 272870557,
             "language": "Ruby",
-            "last_commit": "2026-08-27T17:15:25Z",
+            "last_commit": "2026-08-28T11:55:07Z",
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 822
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -427,7 +451,8 @@
             "owner": "swoole",
             "repo": "swoole-cli",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Distribution"
@@ -458,7 +483,8 @@
                     "owner": "hyperf",
                     "repo": "jet",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -473,7 +499,8 @@
                     "owner": "hyperf",
                     "repo": "amqp",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -488,7 +515,8 @@
                     "owner": "hyperf",
                     "repo": "database",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +531,8 @@
                     "owner": "hyperf",
                     "repo": "crontab",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +547,8 @@
                     "owner": "hyperf",
                     "repo": "async-queue",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -533,7 +563,8 @@
                     "owner": "hyperf",
                     "repo": "task",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -548,7 +579,8 @@
                     "owner": "hyperf",
                     "repo": "tracer",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +595,8 @@
                     "owner": "hyperf",
                     "repo": "elasticsearch",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -578,7 +611,8 @@
                     "owner": "hyperf",
                     "repo": "etcd",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -593,7 +627,8 @@
                     "owner": "hyperf",
                     "repo": "consul",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -608,7 +643,8 @@
                     "owner": "hyperf",
                     "repo": "filesystem",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -623,7 +659,8 @@
                     "owner": "hyperf",
                     "repo": "logger",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 }
               ]
             },
@@ -645,7 +682,8 @@
                     "owner": "qbhy",
                     "repo": "hyperf-auth",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -660,7 +698,8 @@
                     "owner": "Reasno",
                     "repo": "fastmongo",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -675,7 +714,8 @@
                     "owner": "opencodeco",
                     "repo": "hyperf-doctrine",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 }
               ]
             }
@@ -687,8 +727,9 @@
             "last_commit": "2026-08-17T01:58:30Z",
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6892
-          }
+            "stars": 6893
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -713,7 +754,8 @@
                     "owner": "mix-php",
                     "repo": "database",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -728,7 +770,8 @@
                     "owner": "mix-php",
                     "repo": "redis-subscriber",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -743,7 +786,8 @@
                     "owner": "mix-php",
                     "repo": "redis",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -758,7 +802,8 @@
                     "owner": "mix-php",
                     "repo": "sync-invoke",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -773,7 +818,8 @@
                     "owner": "mix-php",
                     "repo": "tracing-zipkin",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 },
                 {
                   "node_type": "item",
@@ -788,7 +834,8 @@
                     "owner": "mix-php",
                     "repo": "monolog",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
                 }
               ]
             }
@@ -801,7 +848,8 @@
             "owner": "mix-php",
             "repo": "mix",
             "stars": 1929
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -816,7 +864,8 @@
             "owner": "imiphp",
             "repo": "imi",
             "stars": 1186
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -831,7 +880,8 @@
             "owner": "leocavalcante",
             "repo": "siler",
             "stars": 1109
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -846,7 +896,8 @@
             "owner": "lizhichao",
             "repo": "one",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -861,7 +912,8 @@
             "owner": "phpMv",
             "repo": "ubiquity",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -876,7 +928,8 @@
             "owner": "simple-swoole",
             "repo": "simps",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -890,8 +943,9 @@
             "last_commit": "2023-10-08T09:04:28Z",
             "owner": "hyperf",
             "repo": "nano",
-            "stars": 434
-          }
+            "stars": 435
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -906,7 +960,8 @@
             "owner": "hunzhiwange",
             "repo": "queryphp",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -921,7 +976,8 @@
             "owner": "distantmagic",
             "repo": "resonance",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -936,7 +992,8 @@
             "owner": "fomo-framework",
             "repo": "fomo",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -951,7 +1008,8 @@
             "owner": "chubbyphp",
             "repo": "chubbyphp-framework",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -966,7 +1024,8 @@
             "owner": "Superbition",
             "repo": "Polyel-Framework",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "group",
@@ -986,7 +1045,8 @@
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -1009,7 +1069,8 @@
             "owner": "php-runtime",
             "repo": "runtime",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "group",
@@ -1029,7 +1090,8 @@
                 "owner": "laravel",
                 "repo": "octane",
                 "stars": 4038
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1106,8 @@
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
                 "stars": 4028
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1059,7 +1122,8 @@
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
                 "stars": 3879
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1074,7 +1138,8 @@
                 "owner": "scil",
                 "repo": "LaravelFly",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1089,7 +1154,8 @@
                 "owner": "huang-yi",
                 "repo": "shadowfax",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1104,7 +1170,8 @@
                 "owner": "toxmc",
                 "repo": "fast-laravel",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1126,7 +1193,8 @@
                 "owner": "phwoolcon",
                 "repo": "phwoolcon",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1148,7 +1216,8 @@
                 "owner": "pachico",
                 "repo": "slim-swoole",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1166,11 +1235,12 @@
                 "archived": false,
                 "id": 346430655,
                 "language": "PHP",
-                "last_commit": "2026-08-10T19:31:57Z",
+                "last_commit": "2026-08-28T14:52:19Z",
                 "owner": "symfony",
                 "repo": "runtime",
                 "stars": 740
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1192,7 +1262,8 @@
                 "owner": "top-think",
                 "repo": "think-swoole",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1214,7 +1285,8 @@
                 "owner": "liufee",
                 "repo": "yii2-swoole",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1229,7 +1301,8 @@
                 "owner": "klsoft-web",
                 "repo": "yii3-swoole",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         },
@@ -1251,7 +1324,8 @@
                 "owner": "WordPress-PSR",
                 "repo": "swoole",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -1274,7 +1348,8 @@
             "owner": "swoole",
             "repo": "grpc",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1289,7 +1364,8 @@
             "owner": "mix-php",
             "repo": "grpc",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1304,7 +1380,8 @@
             "owner": "hyperf",
             "repo": "grpc-client",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1319,7 +1396,8 @@
             "owner": "hyperf",
             "repo": "grpc-server",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "gRPC"
@@ -1340,7 +1418,8 @@
             "owner": "swlib",
             "repo": "saber",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1355,7 +1434,8 @@
             "owner": "Yurunsoft",
             "repo": "YurunHttp",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1370,7 +1450,8 @@
             "owner": "Yurunsoft",
             "repo": "Guzzle-Swoole",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1381,11 +1462,12 @@
             "archived": false,
             "id": 378880657,
             "language": "PHP",
-            "last_commit": "2026-05-14T08:16:03Z",
+            "last_commit": "2026-08-28T18:01:47Z",
             "owner": "utopia-php",
             "repo": "websocket",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "group",
@@ -1405,7 +1487,8 @@
                 "owner": "chubbyphp",
                 "repo": "chubbyphp-swoole-request-handler",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1420,7 +1503,8 @@
                 "owner": "fastdlabs",
                 "repo": "http",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1435,7 +1519,8 @@
                 "owner": "leocavalcante",
                 "repo": "request-callback",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             },
             {
               "node_type": "item",
@@ -1450,7 +1535,8 @@
                 "owner": "razonyang",
                 "repo": "psr7-swoole",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -1473,7 +1559,8 @@
             "owner": "upscalesoftware",
             "repo": "swoole-newrelic",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1488,7 +1575,8 @@
             "owner": "hyperf",
             "repo": "logger",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1503,7 +1591,8 @@
             "owner": "mix-php",
             "repo": "monolog",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Logging"
@@ -1524,7 +1613,8 @@
             "owner": "hyperf",
             "repo": "tracer",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1539,7 +1629,8 @@
             "owner": "mix-php",
             "repo": "tracing-zipkin",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "SOA governance"
@@ -1560,7 +1651,8 @@
             "owner": "kcloze",
             "repo": "swoole-jobs",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1575,7 +1667,8 @@
             "owner": "swoole",
             "repo": "phpkafka",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1590,7 +1683,8 @@
             "owner": "swlib",
             "repo": "archer",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1605,7 +1699,8 @@
             "owner": "hyperf",
             "repo": "amqp",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1620,7 +1715,8 @@
             "owner": "hyperf",
             "repo": "async-queue",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1635,7 +1731,8 @@
             "owner": "hyperf",
             "repo": "task",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Tasks and Queues"
@@ -1656,7 +1753,8 @@
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5366
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1671,7 +1769,8 @@
             "owner": "Yurunsoft",
             "repo": "PaySDK",
             "stars": 890
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1686,7 +1785,8 @@
             "owner": "Yurunsoft",
             "repo": "YurunOAuthLogin",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Third-party SDK"
@@ -1707,7 +1807,8 @@
             "owner": "hyperf-admin",
             "repo": "hyperf-admin",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1722,7 +1823,8 @@
             "owner": "zhamao-robot",
             "repo": "zhamao-framework",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1737,7 +1839,8 @@
             "owner": "Yurunsoft",
             "repo": "yurun-crawler",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1752,7 +1855,8 @@
             "owner": "esaracco",
             "repo": "wopits",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Web Applications"
@@ -1772,8 +1876,9 @@
             "last_commit": "2026-06-29T11:15:57Z",
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 879
-          }
+            "stars": 881
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1788,7 +1893,8 @@
             "owner": "hhxsv5",
             "repo": "php-sse",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1803,7 +1909,8 @@
             "owner": "k8s-client",
             "repo": "client",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1814,11 +1921,12 @@
             "archived": false,
             "id": 136665240,
             "language": "PHP",
-            "last_commit": "2026-04-19T04:56:20Z",
+            "last_commit": "2026-08-28T17:55:40Z",
             "owner": "Crowdstar",
             "repo": "exponential-backoff",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1833,7 +1941,8 @@
             "owner": "leocavalcante",
             "repo": "swoole-mutex",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1848,7 +1957,8 @@
             "owner": "shlinkio",
             "repo": "shlink-event-dispatcher",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
@@ -1863,7 +1973,8 @@
             "owner": "mix-php",
             "repo": "sync-invoke",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "group",
@@ -1883,7 +1994,8 @@
                 "owner": "leocavalcante",
                 "repo": "swoole-futures",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -1892,7 +2004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:40:26.396Z",
+    "last_updated": "2026-08-28T18:46:46.591Z",
     "original_repository_info": {
       "archived": false,
       "id": 304274477,
