@@ -689,7 +689,7 @@
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 822,
+            "stars": 823,
             "topics": [
               "amqp",
               "apcu",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4038,
+                "stars": 4039,
                 "topics": [
                   "laravel",
                   "octane",
@@ -1823,7 +1823,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4028,
+                "stars": 4029,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -1854,7 +1854,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3879,
+                "stars": 3880,
                 "topics": [
                   "async",
                   "http",
@@ -2084,7 +2084,7 @@
                 "open_issues": 15,
                 "owner": "top-think",
                 "repo": "think-swoole",
-                "stars": 478,
+                "stars": 479,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:46:46.591Z"
@@ -2841,7 +2841,7 @@
             "open_issues": 32,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5366,
+            "stars": 5365,
             "topics": [
               "alipay",
               "douyin",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:36.793Z",
+    "last_updated": "2026-08-29T12:43:19.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
