@@ -621,7 +621,7 @@
                 "open_issues": 1,
                 "owner": "swoole",
                 "repo": "ide-helper",
-                "stars": 520,
+                "stars": 519,
                 "topics": [
                   "autocompletion",
                   "ide-helpers",
@@ -1152,7 +1152,7 @@
             "open_issues": 446,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6892,
+            "stars": 6891,
             "topics": [
               "amqp",
               "annotation",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4039,
+                "stars": 4040,
                 "topics": [
                   "laravel",
                   "octane",
@@ -1823,7 +1823,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4029,
+                "stars": 4027,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -2396,7 +2396,7 @@
             "id": 378880657,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:01:47Z",
+            "last_commit": "2026-08-31T09:49:36Z",
             "open_issues": 2,
             "owner": "utopia-php",
             "repo": "websocket",
@@ -2841,7 +2841,7 @@
             "open_issues": 32,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5365,
+            "stars": 5364,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 886,
+            "stars": 888,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:58:20.483Z",
+    "last_updated": "2026-08-31T13:58:57.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
