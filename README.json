@@ -653,7 +653,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-22T18:34:45Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1928,
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-28T11:55:07Z",
+            "last_commit": "2026-09-01T06:25:04Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1149,7 +1149,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-17T01:58:30Z",
-            "open_issues": 446,
+            "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
             "stars": 6891,
@@ -1494,7 +1494,7 @@
             "open_issues": 13,
             "owner": "phpMv",
             "repo": "ubiquity",
-            "stars": 700,
+            "stars": 699,
             "topics": [
               "framework",
               "mvc",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 888,
+            "stars": 890,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T13:58:57.183Z",
+    "last_updated": "2026-09-01T11:43:33.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
@@ -3268,7 +3268,7 @@
       "id": 304274477,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-16T00:04:48Z",
+      "last_commit": "2026-09-01T05:46:59Z",
       "open_issues": 0,
       "owner": "swoole",
       "repo": "awesome-swoole",
@@ -3280,7 +3280,7 @@
         "swoole"
       ]
     },
-    "original_repository_sha": "f6ca64426a5ada76eb4815aab3ee2947cb86e5ab",
+    "original_repository_sha": "9bc16e5721d1214803964e63188d362593f118fe",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
     "title": "Awesome Swoole with stars"
