@@ -458,7 +458,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-01T04:58:51Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "apache",
             "repo": "skywalking-php",
             "stars": 180,
@@ -656,7 +656,7 @@
             "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1928,
+            "stars": 1930,
             "topics": [
               "alpine",
               "binary",
@@ -689,7 +689,7 @@
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 823,
+            "stars": 822,
             "topics": [
               "amqp",
               "apcu",
@@ -1148,11 +1148,11 @@
             "id": 159606650,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-17T01:58:30Z",
+            "last_commit": "2026-09-02T06:24:28Z",
             "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6891,
+            "stars": 6892,
             "topics": [
               "amqp",
               "annotation",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4040,
+                "stars": 4041,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2245,7 +2245,7 @@
             "id": 173579357,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-04T04:04:26Z",
+            "last_commit": "2026-09-02T01:17:07Z",
             "open_issues": 2,
             "owner": "hyperf",
             "repo": "grpc-client",
@@ -2837,8 +2837,8 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-24T07:34:54Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-02T08:42:28Z",
+            "open_issues": 33,
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5364,
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:43:33.663Z",
+    "last_updated": "2026-09-02T11:24:19.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
