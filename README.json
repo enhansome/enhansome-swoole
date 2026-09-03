@@ -303,6 +303,34 @@
         },
         {
           "node_type": "item",
+          "title": "hyperf/database",
+          "description": "The database component of Hyperf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 173579248,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-29T12:10:06Z",
+            "open_issues": 3,
+            "owner": "hyperf",
+            "repo": "database",
+            "stars": 20,
+            "topics": [
+              "coroutine",
+              "database",
+              "eloquent",
+              "hyperf",
+              "orm",
+              "swoole"
+            ]
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
           "title": "simple-swoole/db",
           "description": "The database component of Simps. This component is built on top of the Swoole Library.",
           "children": [],
@@ -324,34 +352,6 @@
               "mysql",
               "redis",
               "simps",
-              "swoole"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hyperf/database",
-          "description": "The database component of Hyperf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 173579248,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-07-29T12:10:06Z",
-            "open_issues": 3,
-            "owner": "hyperf",
-            "repo": "database",
-            "stars": 19,
-            "topics": [
-              "coroutine",
-              "database",
-              "eloquent",
-              "hyperf",
-              "orm",
               "swoole"
             ]
           },
@@ -656,7 +656,7 @@
             "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1930,
+            "stars": 1931,
             "topics": [
               "alpine",
               "binary",
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-01T06:25:04Z",
+            "last_commit": "2026-09-03T06:19:56Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -727,8 +727,8 @@
             "id": 356474751,
             "language": "C",
             "license": null,
-            "last_commit": "2026-05-22T10:31:58Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-03T08:18:56Z",
+            "open_issues": 22,
             "owner": "swoole",
             "repo": "swoole-cli",
             "stars": 251,
@@ -818,7 +818,7 @@
                     "open_issues": 3,
                     "owner": "hyperf",
                     "repo": "database",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "coroutine",
                       "database",
@@ -1152,7 +1152,7 @@
             "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6892,
+            "stars": 6894,
             "topics": [
               "amqp",
               "annotation",
@@ -2396,7 +2396,7 @@
             "id": 378880657,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T09:49:36Z",
+            "last_commit": "2026-09-03T09:17:24Z",
             "open_issues": 2,
             "owner": "utopia-php",
             "repo": "websocket",
@@ -2837,11 +2837,11 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-02T08:42:28Z",
+            "last_commit": "2026-09-03T05:29:22Z",
             "open_issues": 33,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5364,
+            "stars": 5362,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:24:19.776Z",
+    "last_updated": "2026-09-03T11:20:38.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
