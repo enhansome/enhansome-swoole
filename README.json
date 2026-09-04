@@ -546,7 +546,7 @@
                 "id": 24048476,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-27T06:31:22Z",
+                "last_commit": "2026-09-03T19:38:19Z",
                 "open_issues": 1,
                 "owner": "swoole",
                 "repo": "docker-swoole",
@@ -685,11 +685,11 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-03T06:19:56Z",
+            "last_commit": "2026-09-04T00:28:19Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 822,
+            "stars": 823,
             "topics": [
               "amqp",
               "apcu",
@@ -727,7 +727,7 @@
             "id": 356474751,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-03T08:18:56Z",
+            "last_commit": "2026-09-04T10:15:16Z",
             "open_issues": 22,
             "owner": "swoole",
             "repo": "swoole-cli",
@@ -1152,7 +1152,7 @@
             "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6894,
+            "stars": 6895,
             "topics": [
               "amqp",
               "annotation",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4041,
+                "stars": 4040,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2050,7 +2050,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "runtime",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "component",
                   "php",
@@ -2841,7 +2841,7 @@
             "open_issues": 33,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5362,
+            "stars": 5363,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:20:38.755Z",
+    "last_updated": "2026-09-04T11:23:52.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
