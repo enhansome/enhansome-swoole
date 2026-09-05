@@ -653,7 +653,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-22T18:34:45Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1931,
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:28:19Z",
+            "last_commit": "2026-09-05T10:03:57Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -858,6 +858,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "hyperf/tracer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 173579576,
+                    "language": "PHP",
+                    "license": "MIT",
+                    "last_commit": "2026-08-10T14:15:05Z",
+                    "open_issues": 2,
+                    "owner": "hyperf",
+                    "repo": "tracer",
+                    "stars": 10,
+                    "topics": [
+                      "coroutine",
+                      "hyperf",
+                      "jaeger",
+                      "open-tracing",
+                      "swoole",
+                      "zipkin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T18:46:46.591Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "hyperf/async-queue",
                   "description": null,
                   "children": [],
@@ -903,34 +931,6 @@
                       "hyperf",
                       "swoole",
                       "task"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/tracer",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579576,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-08-10T14:15:05Z",
-                    "open_issues": 2,
-                    "owner": "hyperf",
-                    "repo": "tracer",
-                    "stars": 9,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "jaeger",
-                      "open-tracing",
-                      "swoole",
-                      "zipkin"
                     ]
                   },
                   "first_seen": "2026-08-28T18:46:46.591Z"
@@ -1152,7 +1152,7 @@
             "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6895,
+            "stars": 6896,
             "topics": [
               "amqp",
               "annotation",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4040,
+                "stars": 4041,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2400,7 +2400,7 @@
             "open_issues": 2,
             "owner": "utopia-php",
             "repo": "websocket",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "hacktoberfest"
             ]
@@ -2621,7 +2621,7 @@
             "open_issues": 2,
             "owner": "hyperf",
             "repo": "tracer",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "coroutine",
               "hyperf",
@@ -2837,8 +2837,8 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T05:29:22Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-05T05:49:19Z",
+            "open_issues": 28,
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5363,
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:23:52.295Z",
+    "last_updated": "2026-09-05T10:40:22.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
