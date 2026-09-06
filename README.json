@@ -653,10 +653,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-22T18:34:45Z",
-            "open_issues": 39,
+            "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1931,
+            "stars": 1932,
             "topics": [
               "alpine",
               "binary",
@@ -1652,7 +1652,7 @@
             "id": 178733129,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:15:10Z",
+            "last_commit": "2026-09-05T13:45:03Z",
             "open_issues": 0,
             "owner": "chubbyphp",
             "repo": "chubbyphp-framework",
@@ -2424,7 +2424,7 @@
                 "id": 199318436,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-07-20T18:53:33Z",
+                "last_commit": "2026-09-05T13:40:51Z",
                 "open_issues": 1,
                 "owner": "chubbyphp",
                 "repo": "chubbyphp-swoole-request-handler",
@@ -2837,7 +2837,7 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-05T05:49:19Z",
+            "last_commit": "2026-09-06T09:03:33Z",
             "open_issues": 28,
             "owner": "yansongda",
             "repo": "pay",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 893,
+            "stars": 895,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:40:22.289Z",
+    "last_updated": "2026-09-06T11:02:14.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
