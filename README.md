@@ -64,7 +64,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * [SMProxy](https://github.com/louislivi/SMProxy) ⭐ 1,760 | 🐛 16 | 🌐 PHP | 📅 2022-11-13 - SMProxy (Swoole MySQL Proxy), A MySQL database connection pool library. :globe\_with\_meridians:
 * [open-smf/connection-pool](https://github.com/open-smf/connection-pool) ⭐ 222 | 🐛 12 | 🌐 PHP | 📅 2024-05-16 - A common connection pool based on Swoole.
 * [hyperf/database](https://github.com/hyperf/database) ⭐ 20 | 🐛 3 | 🌐 PHP | 📅 2026-07-29 - The database component of Hyperf.
-* [simple-swoole/db](https://github.com/simple-swoole/db) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2023-02-06 - The database component of [Simps](https://github.com/simple-swoole/simps) ⭐ 477 | 🐛 1 | 🌐 PHP | 📅 2022-05-30. This component is built on top of [the Swoole Library](https://github.com/swoole/library) ⭐ 252 | 🐛 1 | 🌐 PHP | 📅 2026-08-28.
+* [simple-swoole/db](https://github.com/simple-swoole/db) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2023-02-06 - The database component of [Simps](https://github.com/simple-swoole/simps) ⭐ 477 | 🐛 1 | 🌐 PHP | 📅 2022-05-30. This component is built on top of [the Swoole Library](https://github.com/swoole/library) ⭐ 252 | 🐛 2 | 🌐 PHP | 📅 2026-08-28.
 * [mix/database](https://github.com/mix-php/database) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2025-11-04 - A Swoole-based database component, with built-in support for connection pool. :globe\_with\_meridians:
 * [mix/redis-subscriber](https://github.com/mix-php/redis-subscriber) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2024-06-06 - A Swoole-based Redis subscription component. :globe\_with\_meridians:
 * [mix/redis](https://github.com/mix-php/redis) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2023-04-04 - A Swoole-based Redis component, with built-in support for connection pool. :globe\_with\_meridians:
@@ -90,11 +90,11 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 * [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,932 | 🐛 38 | 🌐 PHP | 📅 2026-08-22 - Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe\_with\_meridians:
 * [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 823 | 🐛 1 | 🌐 Ruby | 📅 2026-09-05 - 🍻 Homebrew tap for PHP extensions.
-* [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 251 | 🐛 22 | 🌐 C | 📅 2026-09-04 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
+* [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 251 | 🐛 22 | 🌐 C | 📅 2026-09-07 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe\_with\_meridians:
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,896 | 🐛 447 | 🌐 PHP | 📅 2026-09-02 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,897 | 🐛 447 | 🌐 PHP | 📅 2026-09-02 - A coroutine framework that focuses on hyperspeed and flexibility.
   * Official components (an incomplete list)
     * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11
     * [hyperf/amqp](https://github.com/hyperf/amqp) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-06-07
@@ -181,8 +181,8 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 * [Saber](https://github.com/swlib/saber) ⭐ 972 | 🐛 32 | 🌐 PHP | 📅 2021-10-15 - A coroutine-based HTTP client. :globe\_with\_meridians:
 * [Yurunsoft/YurunHttp](https://github.com/Yurunsoft/YurunHttp) ⭐ 259 | 🐛 0 | 🌐 PHP | 📅 2026-07-24 - An easy-to-use HTTP client that works with HTTP/1, HTTP/2, and WebSocket protocols. It also supports chained operations, concurrent processing, and connection pool. :globe\_with\_meridians:
-* [Yurunsoft/Guzzle-Swoole](https://github.com/Yurunsoft/Guzzle-Swoole) ⭐ 161 | 🐛 2 | 🌐 PHP | 📅 2022-01-10 - Make the [Guzzle](https://github.com/guzzle/guzzle) ⭐ 23,460 | 🐛 2 | 🌐 PHP | 📅 2026-08-24 library coroutine-friendly in Swoole. It works with many Guzzle-based packages and Swoole-based frameworks. :globe\_with\_meridians:
-* [Utopia WebSocket](https://github.com/utopia-php/websocket) ⭐ 13 | 🐛 2 | 🌐 PHP | 📅 2026-09-03 - A simple and lite abstraction layer around a WebSocket server. This library is aiming to be as simple and easy to learn and use.
+* [Yurunsoft/Guzzle-Swoole](https://github.com/Yurunsoft/Guzzle-Swoole) ⭐ 161 | 🐛 2 | 🌐 PHP | 📅 2022-01-10 - Make the [Guzzle](https://github.com/guzzle/guzzle) ⭐ 23,459 | 🐛 1 | 🌐 PHP | 📅 2026-09-06 library coroutine-friendly in Swoole. It works with many Guzzle-based packages and Swoole-based frameworks. :globe\_with\_meridians:
+* [Utopia WebSocket](https://github.com/utopia-php/websocket) ⭐ 13 | 🐛 2 | 🌐 PHP | 📅 2026-09-07 - A simple and lite abstraction layer around a WebSocket server. This library is aiming to be as simple and easy to learn and use.
 * PSR Compliance
   * [chubbyphp/chubbyphp-swoole-request-handler](https://github.com/chubbyphp/chubbyphp-swoole-request-handler) ⭐ 31 | 🐛 1 | 🌐 PHP | 📅 2026-09-05 - A request handler adapter for Swoole, using PSR-7, PSR-15 and PSR-17.
   * [fastd/http](https://github.com/fastdlabs/http) ⭐ 27 | 🐛 3 | 🌐 PHP | 📅 2026-08-08 - A PSR-7-compatible HTTP component, with built-in support for Swoole HTTP server. :globe\_with\_meridians:
@@ -220,7 +220,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Third-party SDK
 
-* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,363 | 🐛 28 | 🌐 PHP | 📅 2026-09-06 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 91 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,137 | 🐛 2 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
+* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,364 | 🐛 26 | 🌐 PHP | 📅 2026-09-06 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 91 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,137 | 🐛 2 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
 * [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) ⭐ 890 | 🐛 9 | 🌐 PHP | 📅 2026-07-19 - A coroutine-friendly payment SDK for Alipay and WeChat Pay. :globe\_with\_meridians:
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin) ⭐ 434 | 🐛 2 | 🌐 PHP | 📅 2026-07-09 - An OAuth library that provides built-in support for QQ, WeChat, Weibo, Github, Gitee, etc. :globe\_with\_meridians:
 
@@ -236,7 +236,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Miscellaneous
 
-* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 895 | 🐛 18 | 🌐 Rust | 📅 2026-06-29 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 250 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
+* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 896 | 🐛 18 | 🌐 Rust | 📅 2026-06-29 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 250 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
 * [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) ⭐ 457 | 🐛 7 | 🌐 PHP | 📅 2021-03-04 - A simple and efficient library implemented HTML5's server-sent events using PHP.
 * [k8s/client](https://github.com/k8s-client/client) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2023-01-28 - A Kubernetes API client for PHP.
 * [crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2026-08-28 - A library to prevent overloading an unavailable service by doubling the timeout each iteration. It works under both Swoole (in non-blocking mode) and PHP-FPM.
@@ -295,4 +295,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

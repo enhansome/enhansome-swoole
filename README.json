@@ -727,7 +727,7 @@
             "id": 356474751,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-04T10:15:16Z",
+            "last_commit": "2026-09-07T08:23:42Z",
             "open_issues": 22,
             "owner": "swoole",
             "repo": "swoole-cli",
@@ -1152,7 +1152,7 @@
             "open_issues": 447,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6896,
+            "stars": 6897,
             "topics": [
               "amqp",
               "annotation",
@@ -2396,7 +2396,7 @@
             "id": 378880657,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:17:24Z",
+            "last_commit": "2026-09-07T09:46:13Z",
             "open_issues": 2,
             "owner": "utopia-php",
             "repo": "websocket",
@@ -2837,11 +2837,11 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-06T09:03:33Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-06T14:24:03Z",
+            "open_issues": 26,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5363,
+            "stars": 5364,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:02:14.231Z",
+    "last_updated": "2026-09-07T12:40:58.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
