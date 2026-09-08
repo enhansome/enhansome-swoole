@@ -652,8 +652,8 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-22T18:34:45Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-08T10:51:27Z",
+            "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1932,
@@ -727,8 +727,8 @@
             "id": 356474751,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-07T08:23:42Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-08T11:23:42Z",
+            "open_issues": 3,
             "owner": "swoole",
             "repo": "swoole-cli",
             "stars": 251,
@@ -1733,7 +1733,7 @@
                 "id": 231146229,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-26T19:16:10Z",
+                "last_commit": "2026-09-07T16:56:59Z",
                 "open_issues": 16,
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
@@ -1797,7 +1797,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4041,
+                "stars": 4040,
                 "topics": [
                   "laravel",
                   "octane",
@@ -1823,7 +1823,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4027,
+                "stars": 4026,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -1854,7 +1854,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3880,
+                "stars": 3881,
                 "topics": [
                   "async",
                   "http",
@@ -2135,20 +2135,20 @@
                 "archived": false,
                 "description": "The package provides the Swoole HTTP server for the Yii 3 application",
                 "homepage": null,
-                "id": 1323963498,
+                "id": 1360294128,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-05T17:45:29Z",
+                "last_commit": "2026-09-07T13:57:56Z",
                 "open_issues": 0,
                 "owner": "klsoft-web",
                 "repo": "yii3-swoole",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "swoole",
                   "yii3"
                 ]
               },
-              "first_seen": "2026-08-28T18:46:46.591Z"
+              "first_seen": "2026-09-08T11:24:43.350Z"
             }
           ]
         },
@@ -2837,11 +2837,11 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-06T14:24:03Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-08T10:47:22Z",
+            "open_issues": 25,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5364,
+            "stars": 5365,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 18,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 896,
+            "stars": 897,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:40:58.322Z",
+    "last_updated": "2026-09-08T11:24:43.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
