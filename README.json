@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-05T10:03:57Z",
+            "last_commit": "2026-09-10T06:19:49Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1769,7 +1769,7 @@
             "open_issues": 27,
             "owner": "php-runtime",
             "repo": "runtime",
-            "stars": 442,
+            "stars": 440,
             "topics": [
               "runtime"
             ]
@@ -1794,7 +1794,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-08-23T17:25:20Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
                 "stars": 4040,
@@ -2135,20 +2135,20 @@
                 "archived": false,
                 "description": "The package provides the Swoole HTTP server for the Yii 3 application",
                 "homepage": null,
-                "id": 1360294128,
+                "id": 1362665806,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-09T10:57:22Z",
+                "last_commit": "2026-09-09T12:44:46Z",
                 "open_issues": 0,
                 "owner": "klsoft-web",
                 "repo": "yii3-swoole",
-                "stars": 1,
+                "stars": 0,
                 "topics": [
                   "swoole",
                   "yii3"
                 ]
               },
-              "first_seen": "2026-09-08T11:24:43.350Z"
+              "first_seen": "2026-09-10T11:26:15.804Z"
             }
           ]
         },
@@ -2396,7 +2396,7 @@
             "id": 378880657,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-07T09:46:13Z",
+            "last_commit": "2026-09-09T12:35:15Z",
             "open_issues": 2,
             "owner": "utopia-php",
             "repo": "websocket",
@@ -2837,11 +2837,11 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T11:03:15Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-10T09:41:10Z",
+            "open_issues": 11,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5366,
+            "stars": 5367,
             "topics": [
               "alipay",
               "douyin",
@@ -3062,7 +3062,7 @@
             "open_issues": 20,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 898,
+            "stars": 899,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:29:34.966Z",
+    "last_updated": "2026-09-10T11:26:15.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
