@@ -643,7 +643,7 @@
         {
           "node_type": "item",
           "title": "static-php-cli",
-          "description": "Build static PHP binary in Linux, with Swoole and other popular extensions included. :globe_with_meridians:",
+          "description": "Build static PHP binary in Linux, with Swoole and other popular extensions included.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T08:20:58Z",
+            "last_commit": "2026-09-10T20:35:59Z",
             "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-10T06:19:49Z",
+            "last_commit": "2026-09-11T04:18:07Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -718,7 +718,7 @@
         {
           "node_type": "item",
           "title": "swoole-cli",
-          "description": "A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows. :globe_with_meridians:",
+          "description": "A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -728,7 +728,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-09-09T00:26:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "swoole",
             "repo": "swoole-cli",
             "stars": 251,
@@ -1180,6 +1180,27 @@
         },
         {
           "node_type": "item",
+          "title": "ThinkCMF",
+          "description": "An open-source content management framework built on ThinkPHP, supporting both PHP-FPM and Swoole modes. :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!",
+            "homepage": "https://www.thinkcmf.com",
+            "id": 84772499,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2025-11-20T18:49:23Z",
+            "open_issues": 191,
+            "owner": "thinkcmf",
+            "repo": "thinkcmf",
+            "stars": 2156,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mix PHP",
           "description": "A unique single-threaded coroutine-based framework. :globe_with_meridians:",
           "children": [
@@ -1369,6 +1390,43 @@
         },
         {
           "node_type": "item",
+          "title": "Restler",
+          "description": "A zero-boilerplate REST API framework for PHP 8+, with built-in support for running under the Swoole or OpenSwoole HTTP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.",
+            "homepage": "http://luracast.com/products/restler/",
+            "id": 1588366,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-08-22T00:40:47Z",
+            "open_issues": 33,
+            "owner": "Luracast",
+            "repo": "Restler",
+            "stars": 1382,
+            "topics": [
+              "async",
+              "composer",
+              "framework",
+              "html-format",
+              "json-format",
+              "jsonp",
+              "openapi",
+              "openapi3",
+              "php",
+              "php-fpm",
+              "phpdoc-comments",
+              "reactphp",
+              "rest-api",
+              "restler",
+              "swoole"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
+        },
+        {
+          "node_type": "item",
           "title": "imi",
           "description": "A Swoole-based framework, with built-in support for HTTP/1, HTTP/2, WebSocket, TCP, UDP, and MQTT. :globe_with_meridians:",
           "children": [],
@@ -1480,6 +1538,37 @@
         },
         {
           "node_type": "item",
+          "title": "Blink",
+          "description": "A high-performance web framework and application server for PHP, with built-in support for running under Swoole.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A high performance web framework and application server in PHP. ",
+            "homepage": "https://docs.rethinkphp.com/blink-framework/",
+            "id": 43488468,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-09-09T18:45:57Z",
+            "open_issues": 2,
+            "owner": "bixuehujin",
+            "repo": "blink",
+            "stars": 832,
+            "topics": [
+              "api-framework",
+              "blink",
+              "blink-framework",
+              "framework",
+              "php",
+              "php-framework",
+              "restful",
+              "swoole",
+              "webserver"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ubiquity",
           "description": "A powerful and fast framework for efficient design.",
           "children": [],
@@ -1505,6 +1594,33 @@
             ]
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Swoolefy",
+          "description": "A lightweight, high-performance, coroutine-based API application framework built on Swoole. :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架",
+            "homepage": null,
+            "id": 99567960,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-09-10T17:17:32Z",
+            "open_issues": 2,
+            "owner": "bingcool",
+            "repo": "swoolefy",
+            "stars": 509,
+            "topics": [
+              "ioc",
+              "mvc",
+              "php",
+              "swoole",
+              "swoolefy"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
         },
         {
           "node_type": "item",
@@ -1562,6 +1678,36 @@
         },
         {
           "node_type": "item",
+          "title": "fastD",
+          "description": "A high-performance PHP API framework built on the Swoole extension. :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":rocket: A high performance PHP API framework.",
+            "homepage": "https://fastdlabs.com",
+            "id": 35930132,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-05-29T07:20:16Z",
+            "open_issues": 18,
+            "owner": "fastdlabs",
+            "repo": "fastD",
+            "stars": 419,
+            "topics": [
+              "api",
+              "fastd",
+              "high-performance",
+              "php",
+              "process",
+              "server",
+              "socket",
+              "swoole"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
+        },
+        {
+          "node_type": "item",
           "title": "QueryPHP",
           "description": "A modern, high performance PHP progressive coroutine framework. :globe_with_meridians:",
           "children": [],
@@ -1587,6 +1733,36 @@
             ]
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ManaPHP",
+          "description": "A full-stack PHP framework that supports both Swoole and PHP-FPM modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ManaPHP Framework: Swoole+FPM",
+            "homepage": null,
+            "id": 55986640,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-02T09:24:28Z",
+            "open_issues": 1,
+            "owner": "manaphp",
+            "repo": "manaphp",
+            "stars": 291,
+            "topics": [
+              "ci",
+              "hyperf",
+              "laravel",
+              "phalcon",
+              "swoft",
+              "swoole",
+              "thinkphp",
+              "yii"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
         },
         {
           "node_type": "item",
@@ -1632,7 +1808,7 @@
             "open_issues": 0,
             "owner": "fomo-framework",
             "repo": "fomo",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "php",
               "swoole"
@@ -2837,8 +3013,8 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:41:10Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-11T10:34:21Z",
+            "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5367,
@@ -2988,6 +3164,42 @@
         },
         {
           "node_type": "item",
+          "title": "onchat",
+          "description": "A mobile-first instant messaging progressive web application, using Swoole for its WebSocket backend. :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple, beautiful, mobile-first instant messaging progressive web application.",
+            "homepage": "https://docs.chat.hypergo.net",
+            "id": 200885563,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-25T12:14:42Z",
+            "open_issues": 13,
+            "owner": "onch-at",
+            "repo": "onchat",
+            "stars": 149,
+            "topics": [
+              "backend",
+              "chat",
+              "im",
+              "instant-messaging",
+              "onchat",
+              "php",
+              "progressive-web-app",
+              "real-time",
+              "realtime",
+              "socketio",
+              "swoole",
+              "thinkphp",
+              "webrtc",
+              "websocket"
+            ]
+          },
+          "first_seen": "2026-09-11T11:28:01.003Z"
+        },
+        {
+          "node_type": "item",
           "title": "yurun-crawler",
           "description": "A framework to build high-performance, distributed web crawler. :globe_with_meridians:",
           "children": [],
@@ -3059,10 +3271,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-06-29T11:15:57Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 899,
+            "stars": 901,
             "topics": [
               "analyzer",
               "crawler",
@@ -3260,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:26:15.804Z",
+    "last_updated": "2026-09-11T11:28:01.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
@@ -3268,7 +3480,7 @@
       "id": 304274477,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-01T05:46:59Z",
+      "last_commit": "2026-09-10T19:19:42Z",
       "open_issues": 0,
       "owner": "swoole",
       "repo": "awesome-swoole",
@@ -3280,7 +3492,7 @@
         "swoole"
       ]
     },
-    "original_repository_sha": "9bc16e5721d1214803964e63188d362593f118fe",
+    "original_repository_sha": "c74b9d77c8369303a6d0b708ddb5bd4ea3eccfd7",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
     "title": "Awesome Swoole with stars"
