@@ -259,7 +259,7 @@
             "open_issues": 16,
             "owner": "louislivi",
             "repo": "SMProxy",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "composer",
               "connection-pool",
@@ -656,7 +656,7 @@
             "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1932,
+            "stars": 1933,
             "topics": [
               "alpine",
               "binary",
@@ -1149,10 +1149,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-02T06:24:28Z",
-            "open_issues": 447,
+            "open_issues": 448,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6897,
+            "stars": 6899,
             "topics": [
               "amqp",
               "annotation",
@@ -1607,7 +1607,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:17:32Z",
+            "last_commit": "2026-09-12T07:58:39Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -1692,7 +1692,7 @@
             "open_issues": 18,
             "owner": "fastdlabs",
             "repo": "fastD",
-            "stars": 419,
+            "stars": 418,
             "topics": [
               "api",
               "fastd",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 901,
+            "stars": 902,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:28:01.003Z",
+    "last_updated": "2026-09-12T10:52:31.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
