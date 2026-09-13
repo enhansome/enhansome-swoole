@@ -46,7 +46,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Client Packages
 
-* [simps/mqtt](https://github.com/simps/mqtt) ⭐ 398 | 🐛 1 | 🌐 PHP | 📅 2026-07-26 - A coroutine-based MQTT client. It supports MQTT version 3.1, 3.1.1, and 5.0.
+* [simps/mqtt](https://github.com/simps/mqtt) ⭐ 399 | 🐛 1 | 🌐 PHP | 📅 2026-07-26 - A coroutine-based MQTT client. It supports MQTT version 3.1, 3.1.1, and 5.0.
 * [swoole/ext-zookeeper](https://github.com/swoole/ext-zookeeper) ⭐ 152 | 🐛 1 | 🌐 C | 📅 2025-08-25 - A Swoole-based ZooKeeper client. :globe\_with\_meridians:
 * ~~[swoole/ext-postgresql](https://github.com/swoole/ext-postgresql) ⚠️ Archived~~ - A Swoole-based PostgreSQL client. The repository has been archived by its owner. PostgreSQL support is now built into Swoole itself, enabled at compile time with the `--enable-swoole-pgsql` flag.
 * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11 - An RPC Client with built-in support for [the JSON-RPC protocol](https://www.jsonrpc.org/). It works with both PHP-FPM and Swoole.
@@ -94,7 +94,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,899 | 🐛 448 | 🌐 PHP | 📅 2026-09-02 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,900 | 🐛 448 | 🌐 PHP | 📅 2026-09-02 - A coroutine framework that focuses on hyperspeed and flexibility.
   * Official components (an incomplete list)
     * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11
     * [hyperf/amqp](https://github.com/hyperf/amqp) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-06-07
@@ -154,7 +154,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * Laravel
   * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,040 | 🐛 20 | 🌐 PHP | 📅 2026-08-23 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
   * ~~[swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) ⚠️ Archived~~ - A high-performance HTTP server to run Laravel/Lumen application on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend *Laravel Octane* instead, or *Hypervel* if you need coroutine support.
-  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,881 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,880 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
   * ~~[scil/laravel-fly](https://github.com/scil/LaravelFly) ⚠️ Archived~~ - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online. The repository was archived by its owner in 2024. Please use *Laravel Octane* instead.
   * [huang-yi/shadowfax](https://github.com/huang-yi/shadowfax) ⭐ 349 | 🐛 12 | 🌐 PHP | 📅 2022-01-15 - Runs your Laravel application on Swoole.
   * [toxmc/fast-laravel](https://github.com/toxmc/fast-laravel) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2021-05-17 - A Swoole-based high-performance HTTP server to speed up your Laravel applications. :globe\_with\_meridians:
@@ -236,7 +236,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 * [HyperfAdmin](https://github.com/hyperf-admin/hyperf-admin) ⭐ 429 | 🐛 7 | 🌐 PHP | 📅 2023-04-18 - An administration panel built with Swoole, Hyperf, and Vue.js. :globe\_with\_meridians:
 * [zhamao-framework](https://github.com/zhamao-robot/zhamao-framework) ⭐ 165 | 🐛 9 | 🌐 PHP | 📅 2026-08-12 - A chatbot system based on an award-winning project in China. :globe\_with\_meridians:
-* [onchat](https://github.com/onch-at/onchat) ⭐ 149 | 🐛 13 | 🌐 Java | 📅 2026-08-25 - A mobile-first instant messaging progressive web application, using Swoole for its WebSocket backend. :globe\_with\_meridians:
+* [onchat](https://github.com/onch-at/onchat) ⭐ 149 | 🐛 13 | 🌐 Java | 📅 2026-09-13 - A mobile-first instant messaging progressive web application, using Swoole for its WebSocket backend. :globe\_with\_meridians:
 * [yurun-crawler](https://github.com/Yurunsoft/yurun-crawler) ⭐ 41 | 🐛 0 | 🌐 PHP | 📅 2020-11-04 - A framework to build high-performance, distributed web crawler. :globe\_with\_meridians:
 * [wopits - A world of post-its](https://github.com/esaracco/wopits) ⚠️ Archived - An app for managing projects online using sticky notes to share and collaborate. It uses Swoole as a WebSocket & Task server.
 * [MineAdmin] - An administration panel built with Swoole, Hyperf, and Vue 3. :globe\_with\_meridians:
@@ -302,4 +302,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

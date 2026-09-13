@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "simps",
             "repo": "mqtt",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "mqtt",
               "mqtt-client",
@@ -1152,7 +1152,7 @@
             "open_issues": 448,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6899,
+            "stars": 6900,
             "topics": [
               "amqp",
               "annotation",
@@ -2030,7 +2030,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3881,
+                "stars": 3880,
                 "topics": [
                   "async",
                   "http",
@@ -3174,7 +3174,7 @@
             "id": 200885563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T12:14:42Z",
+            "last_commit": "2026-09-13T03:26:31Z",
             "open_issues": 13,
             "owner": "onch-at",
             "repo": "onchat",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:52:31.297Z",
+    "last_updated": "2026-09-13T11:58:02.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
