@@ -259,7 +259,7 @@
             "open_issues": 16,
             "owner": "louislivi",
             "repo": "SMProxy",
-            "stars": 1761,
+            "stars": 1760,
             "topics": [
               "composer",
               "connection-pool",
@@ -656,7 +656,7 @@
             "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1933,
+            "stars": 1935,
             "topics": [
               "alpine",
               "binary",
@@ -685,8 +685,8 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:18:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T12:34:10Z",
+            "open_issues": 12,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 823,
@@ -1149,7 +1149,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-02T06:24:28Z",
-            "open_issues": 448,
+            "open_issues": 449,
             "owner": "hyperf",
             "repo": "hyperf",
             "stars": 6900,
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T11:58:02.466Z",
+    "last_updated": "2026-09-14T12:55:40.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
