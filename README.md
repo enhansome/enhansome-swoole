@@ -46,7 +46,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Client Packages
 
-* [simps/mqtt](https://github.com/simps/mqtt) ⭐ 399 | 🐛 1 | 🌐 PHP | 📅 2026-07-26 - A coroutine-based MQTT client. It supports MQTT version 3.1, 3.1.1, and 5.0.
+* [simps/mqtt](https://github.com/simps/mqtt) ⭐ 398 | 🐛 0 | 🌐 PHP | 📅 2026-09-17 - A coroutine-based MQTT client. It supports MQTT version 3.1, 3.1.1, and 5.0.
 * [swoole/ext-zookeeper](https://github.com/swoole/ext-zookeeper) ⭐ 152 | 🐛 1 | 🌐 C | 📅 2025-08-25 - A Swoole-based ZooKeeper client. :globe\_with\_meridians:
 * ~~[swoole/ext-postgresql](https://github.com/swoole/ext-postgresql) ⚠️ Archived~~ - A Swoole-based PostgreSQL client. The repository has been archived by its owner. PostgreSQL support is now built into Swoole itself, enabled at compile time with the `--enable-swoole-pgsql` flag.
 * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11 - An RPC Client with built-in support for [the JSON-RPC protocol](https://www.jsonrpc.org/). It works with both PHP-FPM and Swoole.
@@ -88,13 +88,13 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Distribution
 
-* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,936 | 🐛 39 | 🌐 PHP | 📅 2026-09-10 - Build static PHP binary in Linux, with Swoole and other popular extensions included.
-* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 823 | 🐛 1 | 🌐 Ruby | 📅 2026-09-14 - 🍻 Homebrew tap for PHP extensions.
+* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,937 | 🐛 39 | 🌐 PHP | 📅 2026-09-17 - Build static PHP binary in Linux, with Swoole and other popular extensions included.
+* [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 823 | 🐛 1 | 🌐 Ruby | 📅 2026-09-17 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 252 | 🐛 4 | 🌐 C | 📅 2026-09-09 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows.
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,901 | 🐛 450 | 🌐 PHP | 📅 2026-09-15 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,901 | 🐛 449 | 🌐 PHP | 📅 2026-09-15 - A coroutine framework that focuses on hyperspeed and flexibility.
   * Official components (an incomplete list)
     * [hyperf/jet](https://github.com/hyperf/jet) ⭐ 61 | 🐛 2 | 🌐 PHP | 📅 2024-01-11
     * [hyperf/amqp](https://github.com/hyperf/amqp) ⭐ 23 | 🐛 4 | 🌐 PHP | 📅 2026-09-15
@@ -126,9 +126,9 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * [imi](https://github.com/imiphp/imi) ⭐ 1,186 | 🐛 17 | 🌐 PHP | 📅 2026-07-31 - A Swoole-based framework, with built-in support for HTTP/1, HTTP/2, WebSocket, TCP, UDP, and MQTT. :globe\_with\_meridians:
 * ~~[Siler](https://github.com/leocavalcante/siler) ⚠️ Archived~~ - A set of general purpose high-level abstractions aiming an API for declarative programming in PHP. The repository was archived by its owner in 2022.
 * [lizhichao/one](https://github.com/lizhichao/one) ⭐ 873 | 🐛 1 | 🌐 PHP | 📅 2026-01-21 - A simple and efficient framework that works both under PHP-FPM and Swoole.
-* [Blink](https://github.com/bixuehujin/blink) ⭐ 830 | 🐛 2 | 🌐 PHP | 📅 2026-09-09 - A high-performance web framework and application server for PHP, with built-in support for running under Swoole.
+* [Blink](https://github.com/bixuehujin/blink) ⭐ 831 | 🐛 2 | 🌐 PHP | 📅 2026-09-09 - A high-performance web framework and application server for PHP, with built-in support for running under Swoole.
 * [Ubiquity](https://github.com/phpMv/ubiquity) ⭐ 699 | 🐛 13 | 🌐 PHP | 📅 2025-11-30 - A powerful and fast framework for efficient design.
-* [Swoolefy](https://github.com/bingcool/swoolefy) ⭐ 509 | 🐛 2 | 🌐 PHP | 📅 2026-09-12 - A lightweight, high-performance, coroutine-based API application framework built on Swoole. :globe\_with\_meridians:
+* [Swoolefy](https://github.com/bingcool/swoolefy) ⭐ 509 | 🐛 2 | 🌐 PHP | 📅 2026-09-17 - A lightweight, high-performance, coroutine-based API application framework built on Swoole. :globe\_with\_meridians:
 * [Simps](https://github.com/simple-swoole/simps) ⭐ 477 | 🐛 1 | 🌐 PHP | 📅 2022-05-30 - A simple, lightweight and high-performance PHP coroutine framework.
 * [Nano](https://github.com/hyperf/nano) ⭐ 435 | 🐛 10 | 🌐 PHP | 📅 2023-10-08 - A Hyperf-based coroutine microframework.
 * [fastD](https://github.com/fastdlabs/fastD) ⭐ 418 | 🐛 18 | 🌐 PHP | 📅 2026-05-29 - A high-performance PHP API framework built on the Swoole extension. :globe\_with\_meridians:
@@ -152,7 +152,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * Drupal
   * [The Swoole module for Drupal](https://www.drupal.org/project/swoole) - The Swoole module for Drupal supercharges your website's performance by serving it via the Swoole or the OpenSwoole PHP server. The (Open)Swoole PHP server boots Drupal once, keeps it in memory and then feeds it requests at supersonic speeds. Thanks to [daffie](https://www.drupal.org/u/daffie).
 * Laravel
-  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,040 | 🐛 20 | 🌐 PHP | 📅 2026-08-23 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
+  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,041 | 🐛 20 | 🌐 PHP | 📅 2026-08-23 - A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.
   * ~~[swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) ⚠️ Archived~~ - A high-performance HTTP server to run Laravel/Lumen application on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend *Laravel Octane* instead, or *Hypervel* if you need coroutine support.
   * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,880 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
   * ~~[scil/laravel-fly](https://github.com/scil/LaravelFly) ⚠️ Archived~~ - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online. The repository was archived by its owner in 2024. Please use *Laravel Octane* instead.
@@ -198,8 +198,8 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 ## Logging
 
 * [upscale/swoole-newrelic](https://github.com/upscalesoftware/swoole-newrelic) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2023-01-18 - New Relic APM and Browser monitoring of Swoole web-server.
-* [hyperf/logger](https://github.com/hyperf/logger) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - The logging component of Hyperf. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,405 | 🐛 3 | 🌐 PHP | 📅 2026-09-09, with PSR-3 interface implemented.
-* [mix/monolog](https://github.com/mix-php/monolog) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-09-30 - A coroutine-friendly logging library. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,405 | 🐛 3 | 🌐 PHP | 📅 2026-09-09. :globe\_with\_meridians:
+* [hyperf/logger](https://github.com/hyperf/logger) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - The logging component of Hyperf. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,406 | 🐛 4 | 🌐 PHP | 📅 2026-09-09, with PSR-3 interface implemented.
+* [mix/monolog](https://github.com/mix-php/monolog) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-09-30 - A coroutine-friendly logging library. It's based on [Monolog](https://github.com/Seldaek/monolog) ⭐ 21,406 | 🐛 4 | 🌐 PHP | 📅 2026-09-09. :globe\_with\_meridians:
 * [open-telemetry/context-swoole] - Async Swoole/OpenSwoole context implementation for OpenTelemetry PHP.
 
 ## Serverless
@@ -302,4 +302,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
