@@ -656,7 +656,7 @@
             "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1937,
+            "stars": 1936,
             "topics": [
               "alpine",
               "binary",
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-17T04:21:11Z",
+            "last_commit": "2026-09-17T22:11:16Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1152,7 +1152,7 @@
             "open_issues": 449,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6901,
+            "stars": 6902,
             "topics": [
               "amqp",
               "annotation",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 906,
+            "stars": 908,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:47:51.663Z",
+    "last_updated": "2026-09-18T11:22:14.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
@@ -3484,7 +3484,7 @@
       "open_issues": 0,
       "owner": "swoole",
       "repo": "awesome-swoole",
-      "stars": 267,
+      "stars": 268,
       "topics": [
         "awesome",
         "awesome-list",
