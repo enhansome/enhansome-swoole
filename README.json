@@ -202,7 +202,7 @@
             "open_issues": 13,
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 968,
+            "stars": 967,
             "topics": [
               "crontab",
               "swoole",
@@ -546,7 +546,7 @@
                 "id": 24048476,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T18:06:23Z",
+                "last_commit": "2026-09-19T05:54:39Z",
                 "open_issues": 1,
                 "owner": "swoole",
                 "repo": "docker-swoole",
@@ -685,11 +685,11 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-17T22:11:16Z",
+            "last_commit": "2026-09-18T22:11:12Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "amqp",
               "apcu",
@@ -1149,10 +1149,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-15T08:33:36Z",
-            "open_issues": 449,
+            "open_issues": 450,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6902,
+            "stars": 6904,
             "topics": [
               "amqp",
               "annotation",
@@ -1524,7 +1524,7 @@
             "open_issues": 1,
             "owner": "lizhichao",
             "repo": "one",
-            "stars": 873,
+            "stars": 874,
             "topics": [
               "framework",
               "one",
@@ -1607,7 +1607,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:40:46Z",
+            "last_commit": "2026-09-18T15:40:01Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -1999,7 +1999,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4026,
+                "stars": 4025,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -2288,7 +2288,7 @@
                 "open_issues": 1,
                 "owner": "liufee",
                 "repo": "yii2-swoole",
-                "stars": 341,
+                "stars": 340,
                 "topics": [
                   "feehicms",
                   "swoole",
@@ -3017,7 +3017,7 @@
             "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5367,
+            "stars": 5366,
             "topics": [
               "alipay",
               "douyin",
@@ -3049,7 +3049,7 @@
             "open_issues": 9,
             "owner": "Yurunsoft",
             "repo": "PaySDK",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "alipay-sdk",
               "alipaysdk",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:22:14.057Z",
+    "last_updated": "2026-09-19T11:05:49.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
