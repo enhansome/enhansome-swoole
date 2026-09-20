@@ -546,7 +546,7 @@
                 "id": 24048476,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T05:54:39Z",
+                "last_commit": "2026-09-19T20:53:54Z",
                 "open_issues": 1,
                 "owner": "swoole",
                 "repo": "docker-swoole",
@@ -1973,7 +1973,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4041,
+                "stars": 4042,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2030,7 +2030,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3880,
+                "stars": 3879,
                 "topics": [
                   "async",
                   "http",
@@ -2226,7 +2226,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "runtime",
-                "stars": 741,
+                "stars": 742,
                 "topics": [
                   "component",
                   "php",
@@ -2628,7 +2628,7 @@
                 "id": 39018123,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-08T08:07:04Z",
+                "last_commit": "2026-09-20T01:15:27Z",
                 "open_issues": 3,
                 "owner": "fastdlabs",
                 "repo": "http",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:05:49.133Z",
+    "last_updated": "2026-09-20T11:30:46.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
