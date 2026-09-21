@@ -621,7 +621,7 @@
                 "open_issues": 0,
                 "owner": "swoole",
                 "repo": "ide-helper",
-                "stars": 519,
+                "stars": 518,
                 "topics": [
                   "autocompletion",
                   "ide-helpers",
@@ -656,7 +656,7 @@
             "open_issues": 39,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1936,
+            "stars": 1935,
             "topics": [
               "alpine",
               "binary",
@@ -872,7 +872,7 @@
                     "open_issues": 2,
                     "owner": "hyperf",
                     "repo": "tracer",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "coroutine",
                       "hyperf",
@@ -1149,10 +1149,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-15T08:33:36Z",
-            "open_issues": 450,
+            "open_issues": 451,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6904,
+            "stars": 6903,
             "topics": [
               "amqp",
               "annotation",
@@ -1194,7 +1194,7 @@
             "open_issues": 191,
             "owner": "thinkcmf",
             "repo": "thinkcmf",
-            "stars": 2156,
+            "stars": 2157,
             "topics": []
           },
           "first_seen": "2026-09-11T11:28:01.003Z"
@@ -1552,7 +1552,7 @@
             "open_issues": 2,
             "owner": "bixuehujin",
             "repo": "blink",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "api-framework",
               "blink",
@@ -1607,7 +1607,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:40:01Z",
+            "last_commit": "2026-09-20T17:17:08Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -2030,7 +2030,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": [
                   "async",
                   "http",
@@ -2797,7 +2797,7 @@
             "open_issues": 2,
             "owner": "hyperf",
             "repo": "tracer",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "coroutine",
               "hyperf",
@@ -3017,7 +3017,7 @@
             "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5366,
+            "stars": 5368,
             "topics": [
               "alipay",
               "douyin",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 910,
+            "stars": 914,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:30:46.134Z",
+    "last_updated": "2026-09-21T12:55:23.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
