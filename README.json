@@ -685,8 +685,8 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:11:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-22T11:45:04Z",
+            "open_issues": 8,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
             "stars": 824,
@@ -1973,7 +1973,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4042,
+                "stars": 4043,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2260,7 +2260,7 @@
                 "open_issues": 15,
                 "owner": "top-think",
                 "repo": "think-swoole",
-                "stars": 479,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:46:46.591Z"
@@ -3017,7 +3017,7 @@
             "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5368,
+            "stars": 5367,
             "topics": [
               "alipay",
               "douyin",
@@ -3274,7 +3274,7 @@
             "open_issues": 21,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "analyzer",
               "crawler",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:55:23.670Z",
+    "last_updated": "2026-09-22T11:45:18.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
