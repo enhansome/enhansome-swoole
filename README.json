@@ -202,7 +202,7 @@
             "open_issues": 13,
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "crontab",
               "swoole",
@@ -259,7 +259,7 @@
             "open_issues": 16,
             "owner": "louislivi",
             "repo": "SMProxy",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "composer",
               "connection-pool",
@@ -652,8 +652,8 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-22T15:52:46Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-24T08:51:54Z",
+            "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1936,
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-23T05:31:45Z",
+            "last_commit": "2026-09-24T06:19:57Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1149,10 +1149,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-15T08:33:36Z",
-            "open_issues": 451,
+            "open_issues": 452,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6904,
+            "stars": 6905,
             "topics": [
               "amqp",
               "annotation",
@@ -1404,7 +1404,7 @@
             "open_issues": 33,
             "owner": "Luracast",
             "repo": "Restler",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "async",
               "composer",
@@ -1483,7 +1483,7 @@
             "open_issues": 28,
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1109,
+            "stars": 1110,
             "topics": [
               "flat-files",
               "functional",
@@ -1524,7 +1524,7 @@
             "open_issues": 1,
             "owner": "lizhichao",
             "repo": "one",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "framework",
               "one",
@@ -1552,7 +1552,7 @@
             "open_issues": 2,
             "owner": "bixuehujin",
             "repo": "blink",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "api-framework",
               "blink",
@@ -1607,7 +1607,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-23T00:17:41Z",
+            "last_commit": "2026-09-24T00:08:41Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -1692,7 +1692,7 @@
             "open_issues": 18,
             "owner": "fastdlabs",
             "repo": "fastD",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "api",
               "fastd",
@@ -1722,7 +1722,7 @@
             "open_issues": 0,
             "owner": "hunzhiwange",
             "repo": "queryphp",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "framework",
               "leevel",
@@ -1750,7 +1750,7 @@
             "open_issues": 1,
             "owner": "manaphp",
             "repo": "manaphp",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "ci",
               "hyperf",
@@ -2065,7 +2065,7 @@
                 "open_issues": 1,
                 "owner": "scil",
                 "repo": "LaravelFly",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "laravel",
                   "speed",
@@ -2091,7 +2091,7 @@
                 "open_issues": 12,
                 "owner": "huang-yi",
                 "repo": "shadowfax",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "coroutine",
                   "http",
@@ -2519,7 +2519,7 @@
             "open_issues": 0,
             "owner": "Yurunsoft",
             "repo": "YurunHttp",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "coroutine",
               "curl",
@@ -2572,8 +2572,8 @@
             "id": 378880657,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T12:35:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-23T21:59:24Z",
+            "open_issues": 0,
             "owner": "utopia-php",
             "repo": "websocket",
             "stars": 13,
@@ -2852,7 +2852,7 @@
             "open_issues": 3,
             "owner": "kcloze",
             "repo": "swoole-jobs",
-            "stars": 578,
+            "stars": 579,
             "topics": [
               "jobs",
               "processes",
@@ -3017,7 +3017,7 @@
             "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5368,
+            "stars": 5369,
             "topics": [
               "alipay",
               "douyin",
@@ -3472,7 +3472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:44:21.994Z",
+    "last_updated": "2026-09-24T11:53:03.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
