@@ -656,7 +656,7 @@
             "open_issues": 38,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1943,
+            "stars": 1944,
             "topics": [
               "alpine",
               "binary",
@@ -1152,7 +1152,7 @@
             "open_issues": 452,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6905,
+            "stars": 6906,
             "topics": [
               "amqp",
               "annotation",
@@ -1441,7 +1441,7 @@
             "open_issues": 17,
             "owner": "imiphp",
             "repo": "imi",
-            "stars": 1187,
+            "stars": 1186,
             "topics": [
               "amqp",
               "coroutine",
@@ -1607,7 +1607,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-26T05:40:11Z",
+            "last_commit": "2026-09-26T16:17:23Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -2153,7 +2153,7 @@
                 "open_issues": 1,
                 "owner": "innerloop-dev",
                 "repo": "lightspeed",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "laravel",
                   "laravel-echo",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T11:00:43Z",
-            "open_issues": 687,
+            "last_commit": "2026-09-27T12:08:05Z",
+            "open_issues": 693,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57479,
+            "stars": 57488,
             "topics": [
               "android",
               "appwrite",
@@ -3341,11 +3341,11 @@
             "id": 700333533,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-25T21:47:27Z",
+            "last_commit": "2026-09-27T09:09:04Z",
             "open_issues": 15,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "analyzer",
               "crawler",
@@ -3543,7 +3543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:30:07.080Z",
+    "last_updated": "2026-09-27T12:08:31.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
