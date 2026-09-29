@@ -656,7 +656,7 @@
             "open_issues": 40,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1944,
+            "stars": 1947,
             "topics": [
               "alpine",
               "binary",
@@ -1078,7 +1078,7 @@
                     "open_issues": 5,
                     "owner": "qbhy",
                     "repo": "hyperf-auth",
-                    "stars": 194,
+                    "stars": 193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:46:46.591Z"
@@ -1404,7 +1404,7 @@
             "open_issues": 33,
             "owner": "Luracast",
             "repo": "Restler",
-            "stars": 1384,
+            "stars": 1385,
             "topics": [
               "async",
               "composer",
@@ -1780,7 +1780,7 @@
             "open_issues": 0,
             "owner": "distantmagic",
             "repo": "resonance",
-            "stars": 234,
+            "stars": 233,
             "topics": [
               "ai",
               "framework",
@@ -1973,7 +1973,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4042,
+                "stars": 4043,
                 "topics": [
                   "laravel",
                   "octane",
@@ -2030,7 +2030,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3880,
+                "stars": 3879,
                 "topics": [
                   "async",
                   "http",
@@ -2514,7 +2514,7 @@
             "open_issues": 32,
             "owner": "swlib",
             "repo": "saber",
-            "stars": 972,
+            "stars": 971,
             "topics": [
               "ajax",
               "async",
@@ -3042,11 +3042,11 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-28T08:41:32Z",
+            "last_commit": "2026-09-28T16:09:42Z",
             "open_issues": 7,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5372,
+            "stars": 5373,
             "topics": [
               "alipay",
               "douyin",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T14:01:22Z",
-            "open_issues": 687,
+            "last_commit": "2026-09-29T12:53:46Z",
+            "open_issues": 662,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57498,
+            "stars": 57507,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 15,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 924,
+            "stars": 926,
             "topics": [
               "analyzer",
               "crawler",
@@ -3543,7 +3543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:03:44.981Z",
+    "last_updated": "2026-09-29T12:59:32.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
