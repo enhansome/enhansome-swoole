@@ -15,8 +15,8 @@
             "id": 196509499,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T03:57:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T04:22:06Z",
+            "open_issues": 0,
             "owner": "simps",
             "repo": "mqtt",
             "stars": 399,
@@ -202,7 +202,7 @@
             "open_issues": 13,
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 969,
+            "stars": 968,
             "topics": [
               "crontab",
               "swoole",
@@ -621,7 +621,7 @@
                 "open_issues": 0,
                 "owner": "swoole",
                 "repo": "ide-helper",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "autocompletion",
                   "ide-helpers",
@@ -759,7 +759,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/jet",
-                  "description": null,
+                  "description": "hyperf/jet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -780,7 +780,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/amqp",
-                  "description": null,
+                  "description": "hyperf/amqp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -805,7 +805,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/database",
-                  "description": null,
+                  "description": "hyperf/database",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -833,7 +833,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/crontab",
-                  "description": null,
+                  "description": "hyperf/crontab",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -859,7 +859,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/tracer",
-                  "description": null,
+                  "description": "hyperf/tracer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -887,7 +887,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/async-queue",
-                  "description": null,
+                  "description": "hyperf/async-queue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -912,7 +912,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/task",
-                  "description": null,
+                  "description": "hyperf/task",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -938,7 +938,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/elasticsearch",
-                  "description": null,
+                  "description": "hyperf/elasticsearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -965,7 +965,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/etcd",
-                  "description": null,
+                  "description": "hyperf/etcd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -986,7 +986,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/consul",
-                  "description": null,
+                  "description": "hyperf/consul",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1011,7 +1011,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/filesystem",
-                  "description": null,
+                  "description": "hyperf/filesystem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1032,7 +1032,7 @@
                 {
                   "node_type": "item",
                   "title": "hyperf/logger",
-                  "description": null,
+                  "description": "hyperf/logger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1152,7 +1152,7 @@
             "open_issues": 455,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6907,
+            "stars": 6906,
             "topics": [
               "amqp",
               "annotation",
@@ -1212,7 +1212,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/database",
-                  "description": null,
+                  "description": "mix-php/database",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1240,7 +1240,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/redis-subscriber",
-                  "description": null,
+                  "description": "mix-php/redis-subscriber",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1267,7 +1267,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/redis",
-                  "description": null,
+                  "description": "mix-php/redis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1294,7 +1294,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/sync-invoke",
-                  "description": null,
+                  "description": "mix-php/sync-invoke",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1315,7 +1315,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/tracing-zipkin",
-                  "description": null,
+                  "description": "mix-php/tracing-zipkin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1336,7 +1336,7 @@
                 {
                   "node_type": "item",
                   "title": "mix/monolog",
-                  "description": null,
+                  "description": "mix-php/monolog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1371,7 +1371,7 @@
             "open_issues": 3,
             "owner": "mix-php",
             "repo": "mix",
-            "stars": 1930,
+            "stars": 1929,
             "topics": [
               "cli",
               "coroutine",
@@ -1583,7 +1583,7 @@
             "open_issues": 13,
             "owner": "phpMv",
             "repo": "ubiquity",
-            "stars": 697,
+            "stars": 696,
             "topics": [
               "framework",
               "mvc",
@@ -1969,11 +1969,11 @@
                 "id": 350018351,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-25T12:58:40Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-02T12:49:35Z",
+                "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4043,
+                "stars": 4045,
                 "topics": [
                   "laravel",
                   "octane",
@@ -1999,7 +1999,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4024,
+                "stars": 4023,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -3046,7 +3046,7 @@
             "open_issues": 8,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5371,
+            "stars": 5370,
             "topics": [
               "alipay",
               "douyin",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T11:43:32Z",
+            "last_commit": "2026-10-03T03:46:15Z",
             "open_issues": 683,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57538,
+            "stars": 57546,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 930,
+            "stars": 929,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:43:41.778Z",
+    "last_updated": "2026-10-03T05:07:42.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
