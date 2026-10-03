@@ -653,7 +653,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-24T08:51:54Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1948,
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:21:30Z",
+            "last_commit": "2026-10-03T09:07:04Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1552,7 +1552,7 @@
             "open_issues": 2,
             "owner": "bixuehujin",
             "repo": "blink",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "api-framework",
               "blink",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:46:15Z",
-            "open_issues": 683,
+            "last_commit": "2026-10-03T10:13:10Z",
+            "open_issues": 686,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57546,
+            "stars": 57552,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:42.171Z",
+    "last_updated": "2026-10-03T11:44:32.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
