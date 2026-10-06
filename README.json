@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T10:43:20Z",
-            "open_issues": 723,
+            "last_commit": "2026-10-06T13:20:48Z",
+            "open_issues": 721,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57580,
+            "stars": 57582,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:49.419Z",
+    "last_updated": "2026-10-06T13:23:07.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",

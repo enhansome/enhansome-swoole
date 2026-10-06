@@ -235,7 +235,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 *Web-based applications and tools.*
 
-* [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 57,580 | 🐛 723 | 🌐 PHP | 📅 2026-10-06 - An open-source backend platform providing authentication, databases, storage, functions, messaging, and realtime APIs, built on Swoole.
+* [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 57,582 | 🐛 721 | 🌐 PHP | 📅 2026-10-06 - An open-source backend platform providing authentication, databases, storage, functions, messaging, and realtime APIs, built on Swoole.
 * [HyperfAdmin](https://github.com/hyperf-admin/hyperf-admin) ⭐ 430 | 🐛 7 | 🌐 PHP | 📅 2023-04-18 - An administration panel built with Swoole, Hyperf, and Vue.js. :globe\_with\_meridians:
 * [zhamao-framework](https://github.com/zhamao-robot/zhamao-framework) ⭐ 166 | 🐛 9 | 🌐 PHP | 📅 2026-08-12 - A chatbot system based on an award-winning project in China. :globe\_with\_meridians:
 * [onchat](https://github.com/onch-at/onchat) ⭐ 150 | 🐛 13 | 🌐 Java | 📅 2026-10-01 - A mobile-first instant messaging progressive web application, using Swoole for its WebSocket backend. :globe\_with\_meridians:
@@ -245,7 +245,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Miscellaneous
 
-* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 933 | 🐛 16 | 🌐 Rust | 📅 2026-09-27 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 253 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
+* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 934 | 🐛 16 | 🌐 Rust | 📅 2026-09-27 - A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 253 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 based on Svelte + Electron.
 * [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) ⭐ 457 | 🐛 7 | 🌐 PHP | 📅 2021-03-04 - A simple and efficient library implemented HTML5's server-sent events using PHP.
 * [k8s/client](https://github.com/k8s-client/client) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2023-01-28 - A Kubernetes API client for PHP.
 * [crowdstar/exponential-backoff](https://github.com/Crowdstar/exponential-backoff) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2026-08-28 - A library to prevent overloading an unavailable service by doubling the timeout each iteration. It works under both Swoole (in non-blocking mode) and PHP-FPM.
