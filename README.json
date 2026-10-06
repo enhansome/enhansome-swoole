@@ -656,7 +656,7 @@
             "open_issues": 41,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1951,
+            "stars": 1950,
             "topics": [
               "alpine",
               "binary",
@@ -1973,7 +1973,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4045,
+                "stars": 4046,
                 "topics": [
                   "laravel",
                   "octane",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T14:27:36Z",
+            "last_commit": "2026-10-06T10:43:20Z",
             "open_issues": 723,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57574,
+            "stars": 57580,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 929,
+            "stars": 933,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:49:02.355Z",
+    "last_updated": "2026-10-06T10:43:49.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
