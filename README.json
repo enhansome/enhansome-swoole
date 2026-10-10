@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T04:22:06Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "simps",
             "repo": "mqtt",
             "stars": 398,
@@ -652,7 +652,7 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:54:57Z",
+            "last_commit": "2026-10-09T14:54:20Z",
             "open_issues": 40,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
@@ -685,7 +685,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-09T04:03:53Z",
+            "last_commit": "2026-10-10T05:30:54Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -1152,7 +1152,7 @@
             "open_issues": 455,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6907,
+            "stars": 6905,
             "topics": [
               "amqp",
               "annotation",
@@ -1524,7 +1524,7 @@
             "open_issues": 1,
             "owner": "lizhichao",
             "repo": "one",
-            "stars": 876,
+            "stars": 875,
             "topics": [
               "framework",
               "one",
@@ -1583,7 +1583,7 @@
             "open_issues": 13,
             "owner": "phpMv",
             "repo": "ubiquity",
-            "stars": 695,
+            "stars": 694,
             "topics": [
               "framework",
               "mvc",
@@ -1973,7 +1973,7 @@
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4046,
+                "stars": 4048,
                 "topics": [
                   "laravel",
                   "octane",
@@ -1999,7 +1999,7 @@
                 "open_issues": 40,
                 "owner": "swooletw",
                 "repo": "laravel-swoole",
-                "stars": 4023,
+                "stars": 4020,
                 "topics": [
                   "laravel",
                   "laravel-swoole",
@@ -2030,7 +2030,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3880,
+                "stars": 3878,
                 "topics": [
                   "async",
                   "http",
@@ -2255,7 +2255,7 @@
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "runtime",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "component",
                   "php",
@@ -3134,16 +3134,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
             "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T13:19:40Z",
-            "open_issues": 769,
+            "last_commit": "2026-10-10T10:33:53Z",
+            "open_issues": 777,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57618,
+            "stars": 57621,
             "topics": [
               "android",
               "appwrite",
@@ -3151,6 +3151,7 @@
               "backend-as-a-service",
               "docker",
               "firebase",
+              "firewall",
               "flutter",
               "hosting",
               "ios",
@@ -3161,7 +3162,6 @@
               "reactnative",
               "self-hosted",
               "selfhosted",
-              "serverless",
               "supabase",
               "swift",
               "web"
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:23:24.233Z",
+    "last_updated": "2026-10-10T12:38:38.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
