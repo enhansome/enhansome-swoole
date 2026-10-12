@@ -652,8 +652,8 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-10T19:10:55Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-11T16:15:35Z",
+            "open_issues": 40,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1949,
@@ -1945,7 +1945,7 @@
             "open_issues": 27,
             "owner": "php-runtime",
             "repo": "runtime",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "runtime"
             ]
@@ -1970,10 +1970,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-06T14:21:48Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "laravel",
                 "repo": "octane",
-                "stars": 4048,
+                "stars": 4050,
                 "topics": [
                   "laravel",
                   "octane",
@@ -3046,7 +3046,7 @@
             "open_issues": 7,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5370,
+            "stars": 5371,
             "topics": [
               "alipay",
               "douyin",
@@ -3078,7 +3078,7 @@
             "open_issues": 8,
             "owner": "Yurunsoft",
             "repo": "PaySDK",
-            "stars": 889,
+            "stars": 888,
             "topics": [
               "alipay-sdk",
               "alipaysdk",
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-11T09:42:28Z",
-            "open_issues": 785,
+            "last_commit": "2026-10-12T15:32:04Z",
+            "open_issues": 763,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57634,
+            "stars": 57650,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 940,
+            "stars": 944,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T12:57:53.363Z",
+    "last_updated": "2026-10-12T15:35:34.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
