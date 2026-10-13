@@ -621,7 +621,7 @@
                 "open_issues": 0,
                 "owner": "swoole",
                 "repo": "ide-helper",
-                "stars": 519,
+                "stars": 518,
                 "topics": [
                   "autocompletion",
                   "ide-helpers",
@@ -656,7 +656,7 @@
             "open_issues": 40,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1949,
+            "stars": 1947,
             "topics": [
               "alpine",
               "binary",
@@ -689,7 +689,7 @@
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "amqp",
               "apcu",
@@ -1149,10 +1149,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-15T08:33:36Z",
-            "open_issues": 456,
+            "open_issues": 458,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6906,
+            "stars": 6904,
             "topics": [
               "amqp",
               "annotation",
@@ -1483,7 +1483,7 @@
             "open_issues": 28,
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1111,
+            "stars": 1110,
             "topics": [
               "flat-files",
               "functional",
@@ -1607,11 +1607,11 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-11T09:37:51Z",
+            "last_commit": "2026-10-13T12:24:39Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "ioc",
               "mvc",
@@ -1638,7 +1638,7 @@
             "open_issues": 1,
             "owner": "simple-swoole",
             "repo": "simps",
-            "stars": 477,
+            "stars": 475,
             "topics": [
               "coroutine",
               "http",
@@ -1689,7 +1689,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-05-29T07:20:16Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "fastdlabs",
             "repo": "fastD",
             "stars": 420,
@@ -1722,7 +1722,7 @@
             "open_issues": 0,
             "owner": "hunzhiwange",
             "repo": "queryphp",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "framework",
               "leevel",
@@ -2407,7 +2407,7 @@
             "open_issues": 13,
             "owner": "swoole",
             "repo": "grpc",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
@@ -2514,7 +2514,7 @@
             "open_issues": 32,
             "owner": "swlib",
             "repo": "saber",
-            "stars": 971,
+            "stars": 970,
             "topics": [
               "ajax",
               "async",
@@ -3042,8 +3042,8 @@
             "id": 100355112,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-10T16:25:19Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-13T10:45:25Z",
+            "open_issues": 6,
             "owner": "yansongda",
             "repo": "pay",
             "stars": 5371,
@@ -3139,11 +3139,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T15:32:04Z",
-            "open_issues": 763,
+            "last_commit": "2026-10-13T14:16:01Z",
+            "open_issues": 773,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57650,
+            "stars": 57655,
             "topics": [
               "android",
               "appwrite",
@@ -3345,7 +3345,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 944,
+            "stars": 946,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3550,7 +3550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:35:34.774Z",
+    "last_updated": "2026-10-13T14:18:08.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
