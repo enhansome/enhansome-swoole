@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "description": "AI applications and machine learning libraries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dtyq/magic",
+          "description": "An open-source enterprise AI agent platform with agents, workflows, and chat. Its backend is built on Hyperf. :jigsaw:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+            "homepage": "https://www.magicrew.ai/",
+            "id": 983763510,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-12T12:46:11Z",
+            "open_issues": 23,
+            "owner": "dtyq",
+            "repo": "magic",
+            "stars": 5050,
+            "topics": [
+              "agent",
+              "agi",
+              "ai",
+              "gpt",
+              "llm",
+              "low-code",
+              "mcp",
+              "no-code",
+              "sandbox",
+              "super-magic",
+              "workflow"
+            ]
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gptlink/gptlink",
+          "description": "A self-hosted AI chat website with user management, paid plans, and an admin console, built on Hyperf and Vue. :globe_with_meridians: :jigsaw:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能",
+            "homepage": null,
+            "id": 643885884,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-08-14T11:08:50Z",
+            "open_issues": 5,
+            "owner": "gptlink",
+            "repo": "gptlink",
+            "stars": 2628,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "docker",
+              "hyperf"
+            ]
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
+        }
+      ],
+      "title": "AI"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -89,7 +154,7 @@
         {
           "node_type": "item",
           "title": "hyperf/jet",
-          "description": "An RPC Client with built-in support for the JSON-RPC protocol. It works with both PHP-FPM and Swoole.",
+          "description": "An RPC Client with built-in support for the JSON-RPC protocol. It works with both PHP-FPM and Swoole. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +175,7 @@
         {
           "node_type": "item",
           "title": "hyperf/elasticsearch",
-          "description": "The Elasticsearch client of Hyperf.",
+          "description": "The Elasticsearch client of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +202,7 @@
         {
           "node_type": "item",
           "title": "hyperf/etcd",
-          "description": "The etcd client of Hyperf.",
+          "description": "The etcd client of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,7 +223,7 @@
         {
           "node_type": "item",
           "title": "hyperf/consul",
-          "description": "The Consul client of Hyperf.",
+          "description": "The Consul client of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,7 +254,7 @@
         {
           "node_type": "item",
           "title": "osgochina/swoole-crontab",
-          "description": "A Swoole-based crontab schedule. It allows jobs to run at intervals of seconds, and is fully compatible with crontab syntax. :globe_with_meridians:",
+          "description": "A Swoole-based crontab scheduler. It allows jobs to run at intervals of seconds, and is fully compatible with crontab syntax. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,8 +278,29 @@
         },
         {
           "node_type": "item",
+          "title": "hyperf/xxl-job-incubator",
+          "description": "A job executor for the XXL-JOB distributed task scheduling platform, adapted for Hyperf. :globe_with_meridians: :jigsaw:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "XXL-JOB 的 PHP 版本任务执行器（Job Executor）",
+            "homepage": null,
+            "id": 401974757,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-09-14T12:23:38Z",
+            "open_issues": 1,
+            "owner": "hyperf",
+            "repo": "xxl-job-incubator",
+            "stars": 45,
+            "topics": []
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
+        },
+        {
+          "node_type": "item",
           "title": "hyperf/crontab",
-          "description": "The cron component of Hyperf, allowing jobs to run at intervals of seconds.",
+          "description": "The cron component of Hyperf, allowing jobs to run at intervals of seconds. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -303,8 +389,29 @@
         },
         {
           "node_type": "item",
+          "title": "kvnZero/hyperf-APIJSON",
+          "description": "An implementation of APIJSON, a JSON-based protocol and ORM for building CRUD APIs without writing backend code, built on Hyperf. :globe_with_meridians: :jigsaw:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "基于Hyperf的APIJSON项目",
+            "homepage": null,
+            "id": 423778270,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-06-24T08:39:32Z",
+            "open_issues": 2,
+            "owner": "kvnZero",
+            "repo": "hyperf-APIJSON",
+            "stars": 73,
+            "topics": []
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
+        },
+        {
+          "node_type": "item",
           "title": "hyperf/database",
-          "description": "The database component of Hyperf.",
+          "description": "The database component of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +467,7 @@
         {
           "node_type": "item",
           "title": "mix/database",
-          "description": "A Swoole-based database component, with built-in support for connection pool. :globe_with_meridians:",
+          "description": "A Swoole-based database component, with built-in support for connection pooling. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -415,7 +522,7 @@
         {
           "node_type": "item",
           "title": "mix/redis",
-          "description": "A Swoole-based Redis component, with built-in support for connection pool. :globe_with_meridians:",
+          "description": "A Swoole-based Redis component, with built-in support for connection pooling. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +584,7 @@
         {
           "node_type": "item",
           "title": "swoole/debugger",
-          "description": "A remote debugger of Swoole. By adding one-line of code, you can debug your application remotely using a rich list of commands. :globe_with_meridians:",
+          "description": "A remote debugger of Swoole. By adding one line of code, you can debug your application remotely using a rich list of commands. The project has not been updated since 2021. Please use Xdebug instead. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -496,32 +603,46 @@
           "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
-          "node_type": "group",
-          "title": "Blackfire",
-          "description": "A low-overhead code profiler.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "upscale/swoole-blackfire",
-              "description": "Blackfire profiler integration for Swoole web-server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blackfire profiler integration for Swoole web-server",
-                "homepage": null,
-                "id": 140237982,
-                "language": "PHP",
-                "license": "Apache-2.0",
-                "last_commit": "2025-02-18T01:51:20Z",
-                "open_issues": 1,
-                "owner": "upscalesoftware",
-                "repo": "swoole-blackfire",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:46:46.591Z"
-            }
-          ]
+          "node_type": "item",
+          "title": "upscale/swoole-blackfire",
+          "description": "Blackfire profiler integration for Swoole web server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Blackfire profiler integration for Swoole web-server",
+            "homepage": null,
+            "id": 140237982,
+            "language": "PHP",
+            "license": "Apache-2.0",
+            "last_commit": "2025-02-18T01:51:20Z",
+            "open_issues": 1,
+            "owner": "upscalesoftware",
+            "repo": "swoole-blackfire",
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
+          "title": "upscale/swoole-newrelic",
+          "description": "New Relic APM and Browser monitoring of Swoole web server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "New Relic APM and Browser monitoring of Swoole web-server",
+            "homepage": null,
+            "id": 188297084,
+            "language": "PHP",
+            "license": "Apache-2.0",
+            "last_commit": "2023-01-18T04:02:20Z",
+            "open_issues": 1,
+            "owner": "upscalesoftware",
+            "repo": "swoole-newrelic",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
       "title": "Debugging and Profiling"
@@ -561,7 +682,7 @@
             {
               "node_type": "item",
               "title": "adhocore/lemp",
-              "description": "A single container LEMP complete fullstack with latest releases of PHP (7.4 - 8.3) and MySQL, nginx, PostgreSQL, phalcon, swoole, mailcatcher, beanstalkd, elasticsearch, memcached, redis, adminer and all you ever need.",
+              "description": "A single-container LEMP development stack with PHP 7.4–8.3, nginx, MySQL, PostgreSQL, Swoole, Redis, and other common services.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +729,7 @@
             {
               "node_type": "item",
               "title": "swoole/ide-helper",
-              "description": "IDE help files to provide accurate autocompletion for Swoole.",
+              "description": "IDE helper files to provide accurate autocompletion for Swoole.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -652,8 +773,8 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-16T03:07:40Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-16T14:22:59Z",
+            "open_issues": 35,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1946,
@@ -718,7 +839,7 @@
         {
           "node_type": "item",
           "title": "swoole-cli",
-          "description": "A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Support Linux, macOS, and Windows.",
+          "description": "A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Supports Linux, macOS, and Windows.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -750,397 +871,7 @@
           "node_type": "item",
           "title": "Hyperf",
           "description": "A coroutine framework that focuses on hyperspeed and flexibility.",
-          "children": [
-            {
-              "node_type": "group",
-              "title": "Official components (an incomplete list)",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "hyperf/jet",
-                  "description": "hyperf/jet",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🚀 Jet is a unification model RPC Client, built-in JSON RPC protocol, available to running in ALL PHP environments, including PHP-FPM and Swoole/Hyperf environments.",
-                    "homepage": null,
-                    "id": 286282304,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2024-01-11T07:50:27Z",
-                    "open_issues": 2,
-                    "owner": "hyperf",
-                    "repo": "jet",
-                    "stars": 60,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/amqp",
-                  "description": "hyperf/amqp",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579083,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-09-15T08:37:09Z",
-                    "open_issues": 4,
-                    "owner": "hyperf",
-                    "repo": "amqp",
-                    "stars": 23,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/database",
-                  "description": "hyperf/database",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579248,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-09-15T08:37:24Z",
-                    "open_issues": 3,
-                    "owner": "hyperf",
-                    "repo": "database",
-                    "stars": 19,
-                    "topics": [
-                      "coroutine",
-                      "database",
-                      "eloquent",
-                      "hyperf",
-                      "orm",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/crontab",
-                  "description": "hyperf/crontab",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Crontab component.",
-                    "homepage": null,
-                    "id": 196491801,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:29:11Z",
-                    "open_issues": 6,
-                    "owner": "hyperf",
-                    "repo": "crontab",
-                    "stars": 13,
-                    "topics": [
-                      "coroutine",
-                      "crontab",
-                      "hyperf",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/tracer",
-                  "description": "hyperf/tracer",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579576,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-08-10T14:15:05Z",
-                    "open_issues": 2,
-                    "owner": "hyperf",
-                    "repo": "tracer",
-                    "stars": 11,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "jaeger",
-                      "open-tracing",
-                      "swoole",
-                      "zipkin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/async-queue",
-                  "description": "hyperf/async-queue",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579525,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-07-26T09:05:31Z",
-                    "open_issues": 2,
-                    "owner": "hyperf",
-                    "repo": "async-queue",
-                    "stars": 9,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/task",
-                  "description": "hyperf/task",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Task component.",
-                    "homepage": null,
-                    "id": 196786686,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:31:14Z",
-                    "open_issues": 1,
-                    "owner": "hyperf",
-                    "repo": "task",
-                    "stars": 9,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "swoole",
-                      "task"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/elasticsearch",
-                  "description": "hyperf/elasticsearch",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579296,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:29:29Z",
-                    "open_issues": 1,
-                    "owner": "hyperf",
-                    "repo": "elasticsearch",
-                    "stars": 7,
-                    "topics": [
-                      "coroutine",
-                      "elasticsearch",
-                      "elasticsearch-client",
-                      "hyperf",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/etcd",
-                  "description": "hyperf/etcd",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 199359372,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:29:31Z",
-                    "open_issues": 0,
-                    "owner": "hyperf",
-                    "repo": "etcd",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/consul",
-                  "description": "hyperf/consul",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 173579198,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:29:03Z",
-                    "open_issues": 2,
-                    "owner": "hyperf",
-                    "repo": "consul",
-                    "stars": 4,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/filesystem",
-                  "description": "hyperf/filesystem",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[READ ONLY]",
-                    "homepage": null,
-                    "id": 250142840,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-06-07T09:29:36Z",
-                    "open_issues": 0,
-                    "owner": "hyperf",
-                    "repo": "filesystem",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "hyperf/logger",
-                  "description": "hyperf/logger",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 174049905,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2026-08-10T14:14:39Z",
-                    "open_issues": 0,
-                    "owner": "hyperf",
-                    "repo": "logger",
-                    "stars": 4,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "psr-3",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Third-party components (an incomplete list)",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "96qbhy/hyperf-auth",
-                  "description": "An authentication component for Hyperf. It supports JWT and session-based authentications. You can also create your own authentication drivers if needed. :globe_with_meridians:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "hyperf 的 auth 组件",
-                    "homepage": null,
-                    "id": 266091345,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2024-01-11T06:30:31Z",
-                    "open_issues": 5,
-                    "owner": "qbhy",
-                    "repo": "hyperf-auth",
-                    "stars": 193,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "reasno/fastmongo",
-                  "description": "A coroutine-based MongoDB client for Hyperf.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🔌  Plug & Play Mongodb driver for Hyperf (With Coroutine!)",
-                    "homepage": null,
-                    "id": 268456082,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2024-08-20T17:23:45Z",
-                    "open_issues": 17,
-                    "owner": "Reasno",
-                    "repo": "fastmongo",
-                    "stars": 89,
-                    "topics": [
-                      "coroutine",
-                      "hyperf",
-                      "hyperf-mongodb",
-                      "mongodb",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "opencodeco/hyperf-doctrine",
-                  "description": "This project provides an integration for the Doctrine ORM and the Hyperf framework.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🎲 This project provides an integration for the Doctrine ORM and the Hyperf framework.",
-                    "homepage": null,
-                    "id": 688000941,
-                    "language": "PHP",
-                    "license": "MIT",
-                    "last_commit": "2023-09-06T18:14:45Z",
-                    "open_issues": 0,
-                    "owner": "opencodeco",
-                    "repo": "hyperf-doctrine",
-                    "stars": 4,
-                    "topics": [
-                      "connection-pool",
-                      "database",
-                      "doctrine",
-                      "hacktoberfest",
-                      "hyperf",
-                      "orm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                }
-              ]
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.",
@@ -1152,7 +883,7 @@
             "open_issues": 454,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6903,
+            "stars": 6906,
             "topics": [
               "amqp",
               "annotation",
@@ -1202,164 +933,8 @@
         {
           "node_type": "item",
           "title": "Mix PHP",
-          "description": "A unique single-threaded coroutine-based framework. :globe_with_meridians:",
-          "children": [
-            {
-              "node_type": "group",
-              "title": "Official modules (an incomplete list)",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "mix/database",
-                  "description": "mix-php/database",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Simple database for use in multiple execution environments, with support for FPM, CLI, Swoole, WorkerMan, and optional connection pool (coroutine) / 可在各种环境中使用的轻量数据库，支持 FPM、CLI、Swoole、WorkerMan，可选的连接池 (协程)",
-                    "homepage": "https://openmix.org/mix-php",
-                    "id": 162685199,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2025-11-04T09:00:19Z",
-                    "open_issues": 1,
-                    "owner": "mix-php",
-                    "repo": "database",
-                    "stars": 15,
-                    "topics": [
-                      "database",
-                      "mix",
-                      "pdo",
-                      "pool",
-                      "swoole",
-                      "workerman"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mix/redis-subscriber",
-                  "description": "mix-php/redis-subscriber",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Redis native protocol Subscriber based on Swoole coroutine / 基于 Swoole 协程的 Redis 原生协议订阅库",
-                    "homepage": "https://openmix.org/mix-php",
-                    "id": 216169159,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2024-06-06T11:07:35Z",
-                    "open_issues": 0,
-                    "owner": "mix-php",
-                    "repo": "redis-subscriber",
-                    "stars": 15,
-                    "topics": [
-                      "coroutine",
-                      "redis",
-                      "subscribe",
-                      "subscriber",
-                      "swoole"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mix/redis",
-                  "description": "mix-php/redis",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PHP Redis for use in multiple execution environments, with support for FPM, CLI, Swoole, WorkerMan, and optional connection pool (coroutine) / 可在各种环境中使用的 PHP Redis，支持 FPM、CLI、Swoole、WorkerMan，可选的连接池 (协程)",
-                    "homepage": "https://openmix.org/mix-php",
-                    "id": 162685273,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2023-04-04T08:17:08Z",
-                    "open_issues": 0,
-                    "owner": "mix-php",
-                    "repo": "redis",
-                    "stars": 5,
-                    "topics": [
-                      "mix",
-                      "pool",
-                      "redis",
-                      "swoole",
-                      "workerman"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mix/sync-invoke",
-                  "description": "mix-php/sync-invoke",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Swoole synchronous blocking code invoke library",
-                    "homepage": null,
-                    "id": 224160378,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2020-10-28T04:25:57Z",
-                    "open_issues": 0,
-                    "owner": "mix-php",
-                    "repo": "sync-invoke",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mix/tracing-zipkin",
-                  "description": "mix-php/tracing-zipkin",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Zipkin tracing library based on Opentracing standard",
-                    "homepage": null,
-                    "id": 253237962,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2020-09-30T06:46:34Z",
-                    "open_issues": 0,
-                    "owner": "mix-php",
-                    "repo": "tracing-zipkin",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mix/monolog",
-                  "description": "mix-php/monolog",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Monolog support Swoole coroutine and cli console printing",
-                    "homepage": null,
-                    "id": 162685500,
-                    "language": "PHP",
-                    "license": null,
-                    "last_commit": "2020-09-30T06:45:28Z",
-                    "open_issues": 0,
-                    "owner": "mix-php",
-                    "repo": "monolog",
-                    "stars": 1,
-                    "topics": [
-                      "log",
-                      "mix"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:46:46.591Z"
-                }
-              ]
-            }
-          ],
+          "description": "A single-threaded, coroutine-based framework. :globe_with_meridians:",
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server",
@@ -1470,7 +1045,7 @@
         {
           "node_type": "item",
           "title": "Siler",
-          "description": "A set of general purpose high-level abstractions aiming an API for declarative programming in PHP. The repository was archived by its owner in 2022.",
+          "description": "A set of general-purpose, high-level abstractions for declarative programming in PHP. The repository was archived by its owner in 2022.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1570,7 +1145,7 @@
         {
           "node_type": "item",
           "title": "Ubiquity",
-          "description": "A powerful and fast framework for efficient design.",
+          "description": "A PHP MVC framework that can run on PHP-FPM or on async servers such as Swoole.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1598,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "Swoolefy",
-          "description": "A lightweight, high-performance, coroutine-based API application framework built on Swoole. :globe_with_meridians:",
+          "description": "A lightweight, coroutine-based API application framework built on Swoole. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1607,7 +1182,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:09:14Z",
+            "last_commit": "2026-10-16T15:41:50Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -1625,7 +1200,7 @@
         {
           "node_type": "item",
           "title": "Simps",
-          "description": "A simple, lightweight and high-performance PHP coroutine framework.",
+          "description": "A lightweight PHP coroutine framework.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1658,7 +1233,7 @@
         {
           "node_type": "item",
           "title": "Nano",
-          "description": "A Hyperf-based coroutine microframework.",
+          "description": "A Hyperf-based coroutine microframework. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1795,7 +1370,7 @@
         {
           "node_type": "item",
           "title": "Fomo",
-          "description": "A simple, fast framework with many features for the HTTP. It was ranked as the fastest PHP framework in the world since 2022-10-16 (and still is as of 2022-11-30) by the Web Frameworks Benchmark project. The repository was archived by its owner in 2025.",
+          "description": "A simple, fast framework for building HTTP applications. The repository was archived by its owner in 2025.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1819,7 +1394,7 @@
         {
           "node_type": "item",
           "title": "chubbyphp-framework",
-          "description": "A minimal middleware based micro framework using PSR, with the goal is to achive the best combination of flexibility and simplicity by using standards.",
+          "description": "A minimal, middleware-based microframework using PSR standards, with the goal of achieving the best combination of flexibility and simplicity.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1893,35 +1468,33 @@
           "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
-          "node_type": "group",
-          "title": "Laminas/Mezzio/Zend Framework",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "mezzio/mezzio-swoole",
-              "description": "Provides the support of Swoole into a Mezzio application.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Swoole support for Mezzio",
-                "homepage": "https://docs.mezzio.dev/mezzio-swoole/",
-                "id": 231146229,
-                "language": "PHP",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T15:56:47Z",
-                "open_issues": 15,
-                "owner": "mezzio",
-                "repo": "mezzio-swoole",
-                "stars": 92,
-                "topics": [
-                  "swoole",
-                  "swoole-framework"
-                ]
-              },
-              "first_seen": "2026-08-28T18:46:46.591Z"
-            }
-          ]
+          "node_type": "item",
+          "title": "Semitexa",
+          "description": "A modular PHP 8.4 framework running on long-lived Swoole workers, with server-side rendering and deferred blocks streamed over SSE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Semitexa Ultimate - full-stack project skeleton for SSR applications with docs and core modules",
+            "homepage": "https://semitexa.com",
+            "id": 1082582067,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-17T09:57:07Z",
+            "open_issues": 1,
+            "owner": "semitexa",
+            "repo": "semitexa-ultimate",
+            "stars": 4,
+            "topics": [
+              "frontend",
+              "project-skeleton",
+              "semitexa",
+              "ssr",
+              "starter-kit",
+              "twig",
+              "ultimate"
+            ]
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
         }
       ],
       "title": "Frameworks"
@@ -1954,13 +1527,44 @@
         },
         {
           "node_type": "group",
+          "title": "Laminas/Mezzio/Zend Framework",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mezzio/mezzio-swoole",
+              "description": "Provides Swoole support for Mezzio applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Swoole support for Mezzio",
+                "homepage": "https://docs.mezzio.dev/mezzio-swoole/",
+                "id": 231146229,
+                "language": "PHP",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-08T15:56:47Z",
+                "open_issues": 15,
+                "owner": "mezzio",
+                "repo": "mezzio-swoole",
+                "stars": 92,
+                "topics": [
+                  "swoole",
+                  "swoole-framework"
+                ]
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
+            }
+          ]
+        },
+        {
+          "node_type": "group",
           "title": "Laravel",
           "description": null,
           "children": [
             {
               "node_type": "item",
               "title": "Laravel Octane",
-              "description": "A first-party Laravel package that supercharges laravelish application's performance by serving it using Swoole high-performance HTTP servers. Developed and maintained by the Laravel team.",
+              "description": "A first-party Laravel package that boosts application performance by serving it with long-running application servers such as Swoole. Developed and maintained by the Laravel team.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1969,8 +1573,8 @@
                 "id": 350018351,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-14T16:33:45Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-16T19:04:47Z",
+                "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
                 "stars": 4050,
@@ -1986,7 +1590,7 @@
             {
               "node_type": "item",
               "title": "swooletw/laravel-swoole",
-              "description": "A high-performance HTTP server to run Laravel/Lumen application on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend Laravel Octane instead, or Hypervel if you need coroutine support.",
+              "description": "A high-performance HTTP server to run Laravel/Lumen applications on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend Laravel Octane instead, or Hypervel if you need coroutine support.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2052,7 +1656,7 @@
             {
               "node_type": "item",
               "title": "scil/laravel-fly",
-              "description": "To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online. The repository was archived by its owner in 2024. Please use Laravel Octane instead.",
+              "description": "A package to speed up Laravel with Swoole, with preloading, coroutine support, and an online Tinker. The repository was archived by its owner in 2024. Please use Laravel Octane instead.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2107,7 +1711,7 @@
             {
               "node_type": "item",
               "title": "toxmc/fast-laravel",
-              "description": "A Swoole-based high-performance HTTP server to speed up your Laravel applications. :globe_with_meridians:",
+              "description": "A Swoole-based high-performance HTTP server to speed up your Laravel applications. The project has not been updated since 2021. Please use Laravel Octane instead. :globe_with_meridians:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2140,7 +1744,7 @@
             {
               "node_type": "item",
               "title": "innerloop-dev/lightspeed",
-              "description": "A Pusher-compatible websocket server for Laravel on Swoole, serving HTTP and websockets on one port, where browsers send authenticated messages into the app and get the answer back on the same socket.",
+              "description": "A Pusher-compatible WebSocket server for Laravel on Swoole that serves HTTP and WebSocket traffic on one port. Browsers can send authenticated messages to the application and receive responses over the same connection.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2176,7 +1780,7 @@
             {
               "node_type": "item",
               "title": "phwoolcon/phwoolcon",
-              "description": "Phalcon + Swoole.",
+              "description": "Runs Phalcon applications on Swoole. The project has not been updated since 2019.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2276,7 +1880,7 @@
             {
               "node_type": "item",
               "title": "topthink/think-swoole",
-              "description": "To run ThinkPHP applications with Swoole. :globe_with_meridians:",
+              "description": "Runs ThinkPHP applications with Swoole. :globe_with_meridians:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2298,13 +1902,41 @@
         },
         {
           "node_type": "group",
+          "title": "WordPress",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WordPress Swoole",
+              "description": "Runs WordPress on Swoole.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Try to run WordPress in swoole",
+                "homepage": null,
+                "id": 347298709,
+                "language": "PHP",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-20T23:30:19Z",
+                "open_issues": 5,
+                "owner": "WordPress-PSR",
+                "repo": "swoole",
+                "stars": 87,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:46:46.591Z"
+            }
+          ]
+        },
+        {
+          "node_type": "group",
           "title": "Yii",
           "description": null,
           "children": [
             {
               "node_type": "item",
               "title": "liufee/yii2-swoole",
-              "description": "To run Yii 2 applications with Swoole. :globe_with_meridians:",
+              "description": "Runs Yii 2 applications with Swoole. :globe_with_meridians:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2354,34 +1986,6 @@
                 ]
               },
               "first_seen": "2026-09-10T11:26:15.804Z"
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "WordPress",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "WordPress Swoole",
-              "description": "To run WordPress in Swoole.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Try to run WordPress in swoole",
-                "homepage": null,
-                "id": 347298709,
-                "language": "PHP",
-                "license": "GPL-3.0",
-                "last_commit": "2026-05-20T23:30:19Z",
-                "open_issues": 5,
-                "owner": "WordPress-PSR",
-                "repo": "swoole",
-                "stars": 87,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:46:46.591Z"
             }
           ]
         }
@@ -2441,7 +2045,7 @@
         {
           "node_type": "item",
           "title": "hyperf/grpc-client",
-          "description": "The gRPC client component of Hyperf.",
+          "description": "The gRPC client component of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2468,7 +2072,7 @@
         {
           "node_type": "item",
           "title": "hyperf/grpc-server",
-          "description": "The gRPC server component of Hyperf.",
+          "description": "The gRPC server component of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2534,8 +2138,36 @@
         },
         {
           "node_type": "item",
+          "title": "hhxsv5/php-sse",
+          "description": "A library that implements HTML5 server-sent events (SSE) in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.",
+            "homepage": null,
+            "id": 32618745,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2021-03-04T09:51:13Z",
+            "open_issues": 7,
+            "owner": "hhxsv5",
+            "repo": "php-sse",
+            "stars": 457,
+            "topics": [
+              "event-stream",
+              "events",
+              "eventsource",
+              "server-sent-events",
+              "sever-events",
+              "sse"
+            ]
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
           "title": "Yurunsoft/YurunHttp",
-          "description": "An easy-to-use HTTP client that works with HTTP/1, HTTP/2, and WebSocket protocols. It also supports chained operations, concurrent processing, and connection pool. :globe_with_meridians:",
+          "description": "An easy-to-use HTTP client that works with HTTP/1, HTTP/2, and WebSocket protocols. It also supports chained operations, concurrent processing, and connection pooling. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2565,7 +2197,7 @@
         {
           "node_type": "item",
           "title": "Yurunsoft/Guzzle-Swoole",
-          "description": "Make the Guzzle library coroutine-friendly in Swoole. It works with many Guzzle-based packages and Swoole-based frameworks. :globe_with_meridians:",
+          "description": "Makes the Guzzle library coroutine-friendly in Swoole. It works with many Guzzle-based packages and Swoole-based frameworks. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2676,7 +2308,7 @@
             {
               "node_type": "item",
               "title": "leocavalcante/request-callback",
-              "description": "Swoole request callback for PSR compliant handlers. Compatible with PSR-7 and PSR-15.",
+              "description": "Swoole request callback for PSR-compliant handlers. Compatible with PSR-7 and PSR-15.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2735,29 +2367,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "upscale/swoole-newrelic",
-          "description": "New Relic APM and Browser monitoring of Swoole web-server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "New Relic APM and Browser monitoring of Swoole web-server",
-            "homepage": null,
-            "id": 188297084,
-            "language": "PHP",
-            "license": "Apache-2.0",
-            "last_commit": "2023-01-18T04:02:20Z",
-            "open_issues": 1,
-            "owner": "upscalesoftware",
-            "repo": "swoole-newrelic",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "hyperf/logger",
-          "description": "The logging component of Hyperf. It's based on Monolog, with PSR-3 interface implemented.",
+          "description": "The logging component of Hyperf. It's based on Monolog, with PSR-3 interface implemented. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2812,8 +2423,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "TarsPHP",
+          "description": "PHP support for the Tars microservice platform, providing the Tars binary protocol, an RPC client, and Swoole-based TCP, HTTP, and timer servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "基础目录，聚合所有其他目录，包含文档和例子",
+            "homepage": null,
+            "id": 148163173,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-09-27T14:12:04Z",
+            "open_issues": 9,
+            "owner": "TarsPHP",
+            "repo": "TarsPHP",
+            "stars": 506,
+            "topics": [
+              "swoole",
+              "tars",
+              "tarsphp"
+            ]
+          },
+          "first_seen": "2026-10-17T10:50:52.410Z"
+        },
+        {
+          "node_type": "item",
           "title": "hyperf/tracer",
-          "description": "The distributed tracing component of Hyperf. The implementation is based on OpenTracing.",
+          "description": "The distributed tracing component of Hyperf. The implementation is based on OpenTracing. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2860,7 +2496,7 @@
           "first_seen": "2026-08-28T18:46:46.591Z"
         }
       ],
-      "title": "SOA governance"
+      "title": "SOA Governance"
     },
     {
       "description": null,
@@ -2951,7 +2587,7 @@
         {
           "node_type": "item",
           "title": "hyperf/amqp",
-          "description": "The AMQP client of Hyperf.",
+          "description": "The AMQP client of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2976,7 +2612,7 @@
         {
           "node_type": "item",
           "title": "hyperf/async-queue",
-          "description": "The Redis-based asynchronous queue component of Hyperf.",
+          "description": "The Redis-based asynchronous queue component of Hyperf. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3001,7 +2637,7 @@
         {
           "node_type": "item",
           "title": "hyperf/task",
-          "description": "The task component of Hyperf, providing an easy way to add and dispatch tasks to task workers in Swoole.",
+          "description": "The task component of Hyperf, providing an easy way to add and dispatch tasks to task workers in Swoole. :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3095,7 +2731,7 @@
         {
           "node_type": "item",
           "title": "Yurunsoft/YurunOAuthLogin",
-          "description": "An OAuth library that provides built-in support for QQ, WeChat, Weibo, Github, Gitee, etc. :globe_with_meridians:",
+          "description": "An OAuth library that provides built-in support for QQ, WeChat, Weibo, GitHub, Gitee, etc. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3139,11 +2775,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T11:26:54Z",
-            "open_issues": 800,
+            "last_commit": "2026-10-17T10:41:41Z",
+            "open_issues": 801,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57700,
+            "stars": 57712,
             "topics": [
               "android",
               "appwrite",
@@ -3172,7 +2808,7 @@
         {
           "node_type": "item",
           "title": "HyperfAdmin",
-          "description": "An administration panel built with Swoole, Hyperf, and Vue.js. :globe_with_meridians:",
+          "description": "An administration panel built with Swoole, Hyperf, and Vue.js. :globe_with_meridians: :jigsaw:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3193,42 +2829,6 @@
               "swoole",
               "vue",
               "vue-admin"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zhamao-framework",
-          "description": "A chatbot system based on an award-winning project in China. :globe_with_meridians:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "协程、高性能、灵活的聊天机器人 & Web 开发框架（炸毛框架）",
-            "homepage": "https://framework.zhamao.xin",
-            "id": 126986080,
-            "language": "PHP",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-12T05:15:32Z",
-            "open_issues": 9,
-            "owner": "zhamao-robot",
-            "repo": "zhamao-framework",
-            "stars": 166,
-            "topics": [
-              "bot",
-              "chatbot",
-              "cmdline",
-              "coolq",
-              "coroutine",
-              "cqhttp",
-              "cqhttp-php-sdk",
-              "framework",
-              "http-server",
-              "onebot",
-              "php",
-              "qqbot",
-              "robot",
-              "swoole"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
@@ -3271,29 +2871,8 @@
         },
         {
           "node_type": "item",
-          "title": "yurun-crawler",
-          "description": "A framework to build high-performance, distributed web crawler. :globe_with_meridians:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "宇润爬虫框架(Yurun Crawler) 是一个低代码、高性能、分布式爬虫采集框架，基于 imi 框架开发，运行在 Swoole 常驻内存的协程环境。",
-            "homepage": null,
-            "id": 274118844,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2020-11-04T02:21:37Z",
-            "open_issues": 0,
-            "owner": "Yurunsoft",
-            "repo": "yurun-crawler",
-            "stars": 41,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "wopits - A world of post-its",
-          "description": "An app for managing projects online using sticky notes to share and collaborate. It uses Swoole as a WebSocket & Task server.",
+          "description": "An app for managing projects online using sticky notes to share and collaborate. It uses Swoole as a WebSocket & Task server. The repository was archived by its owner in 2026.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3332,7 +2911,7 @@
         {
           "node_type": "item",
           "title": "siteone-crawler",
-          "description": "A fast Swoole-based cross-platform website crawler, cloner and analyzer for SEO, security, accessibility, and performance optimization - ideal for developers, DevOps and QA engineers. Supports Windows, macOS, and Linux. Also available as desktop application based on Svelte + Electron.",
+          "description": "A Swoole-based cross-platform website crawler, cloner, and analyzer for SEO, security, accessibility, and performance audits. It runs on Windows, macOS, and Linux, and is also available as a desktop application built with Svelte and Electron.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3345,7 +2924,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 956,
+            "stars": 958,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3373,36 +2952,65 @@
         },
         {
           "node_type": "item",
-          "title": "hhxsv5/php-sse",
-          "description": "A simple and efficient library implemented HTML5's server-sent events using PHP.",
+          "title": "zhamao-framework",
+          "description": "A chatbot system based on an award-winning project in China. :globe_with_meridians:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.",
-            "homepage": null,
-            "id": 32618745,
+            "description": "协程、高性能、灵活的聊天机器人 & Web 开发框架（炸毛框架）",
+            "homepage": "https://framework.zhamao.xin",
+            "id": 126986080,
             "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2021-03-04T09:51:13Z",
-            "open_issues": 7,
-            "owner": "hhxsv5",
-            "repo": "php-sse",
-            "stars": 457,
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-12T05:15:32Z",
+            "open_issues": 9,
+            "owner": "zhamao-robot",
+            "repo": "zhamao-framework",
+            "stars": 166,
             "topics": [
-              "event-stream",
-              "events",
-              "eventsource",
-              "server-sent-events",
-              "sever-events",
-              "sse"
+              "bot",
+              "chatbot",
+              "cmdline",
+              "coolq",
+              "coroutine",
+              "cqhttp",
+              "cqhttp-php-sdk",
+              "framework",
+              "http-server",
+              "onebot",
+              "php",
+              "qqbot",
+              "robot",
+              "swoole"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
         },
         {
           "node_type": "item",
+          "title": "yurun-crawler",
+          "description": "A framework to build high-performance, distributed web crawler. :globe_with_meridians:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "宇润爬虫框架(Yurun Crawler) 是一个低代码、高性能、分布式爬虫采集框架，基于 imi 框架开发，运行在 Swoole 常驻内存的协程环境。",
+            "homepage": null,
+            "id": 274118844,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2020-11-04T02:21:37Z",
+            "open_issues": 0,
+            "owner": "Yurunsoft",
+            "repo": "yurun-crawler",
+            "stars": 41,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
           "title": "k8s/client",
-          "description": "A Kubernetes API client for PHP.",
+          "description": "A Kubernetes API client for PHP, with a Swoole-based WebSocket adapter for exec, attach, and port-forwarding.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3469,27 +3077,6 @@
         },
         {
           "node_type": "item",
-          "title": "Shlink Event Dispatcher",
-          "description": "Event dispatching using PSR-14, with async event listener that are executed in swoole task system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Event dispatching using PSR-14, with async event listener that are executed in background jobs system",
-            "homepage": null,
-            "id": 201753568,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-07-29T09:41:43Z",
-            "open_issues": 0,
-            "owner": "shlinkio",
-            "repo": "shlink-event-dispatcher",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "mix/sync-invoke",
           "description": "A library to execute synchronous blocking code without blocking the running process in Swoole. :globe_with_meridians:",
           "children": [],
@@ -3550,7 +3137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:30:43.418Z",
+    "last_updated": "2026-10-17T10:50:52.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
@@ -3558,7 +3145,7 @@
       "id": 304274477,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-25T16:42:54Z",
+      "last_commit": "2026-10-17T02:40:51Z",
       "open_issues": 0,
       "owner": "swoole",
       "repo": "awesome-swoole",
@@ -3570,7 +3157,7 @@
         "swoole"
       ]
     },
-    "original_repository_sha": "277f40422fc394b6b1d48247f76f295c175a42b4",
+    "original_repository_sha": "a8616db58d9f62f62777cce2ff7e19f1928f2e42",
     "enhanced_repository": "enhansome/enhansome-swoole",
     "enhanced_repository_description": null,
     "title": "Awesome Swoole with stars"
