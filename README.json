@@ -742,7 +742,7 @@
                 "open_issues": 0,
                 "owner": "swoole",
                 "repo": "ide-helper",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "autocompletion",
                   "ide-helpers",
@@ -777,7 +777,7 @@
             "open_issues": 35,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1946,
+            "stars": 1949,
             "topics": [
               "alpine",
               "binary",
@@ -1058,7 +1058,7 @@
             "open_issues": 28,
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1109,
+            "stars": 1108,
             "topics": [
               "flat-files",
               "functional",
@@ -1479,7 +1479,7 @@
             "id": 1082582067,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-17T09:57:07Z",
+            "last_commit": "2026-10-18T10:40:35Z",
             "open_issues": 1,
             "owner": "semitexa",
             "repo": "semitexa-ultimate",
@@ -2775,11 +2775,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T10:41:41Z",
+            "last_commit": "2026-10-18T11:07:26Z",
             "open_issues": 801,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57712,
+            "stars": 57718,
             "topics": [
               "android",
               "appwrite",
@@ -2924,7 +2924,7 @@
             "open_issues": 16,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 958,
+            "stars": 962,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3137,7 +3137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:50:52.410Z",
+    "last_updated": "2026-10-18T11:15:12.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
