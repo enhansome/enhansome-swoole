@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 5057,
+            "stars": 5058,
             "topics": [
               "agent",
               "agi",
@@ -267,7 +267,7 @@
             "open_issues": 13,
             "owner": "osgochina",
             "repo": "swoole-crontab",
-            "stars": 968,
+            "stars": 967,
             "topics": [
               "crontab",
               "swoole",
@@ -345,7 +345,7 @@
             "open_issues": 16,
             "owner": "louislivi",
             "repo": "SMProxy",
-            "stars": 1760,
+            "stars": 1759,
             "topics": [
               "composer",
               "connection-pool",
@@ -777,7 +777,7 @@
             "open_issues": 36,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1959,
+            "stars": 1960,
             "topics": [
               "alpine",
               "binary",
@@ -852,7 +852,7 @@
             "open_issues": 0,
             "owner": "swoole",
             "repo": "swoole-cli",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "cli",
               "php",
@@ -883,7 +883,7 @@
             "open_issues": 455,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6909,
+            "stars": 6911,
             "topics": [
               "amqp",
               "annotation",
@@ -1479,8 +1479,8 @@
             "id": 1082582067,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-22T20:17:54Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T20:47:08Z",
+            "open_issues": 1,
             "owner": "semitexa",
             "repo": "semitexa-ultimate",
             "stars": 4,
@@ -1574,7 +1574,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-26T13:38:46Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "laravel",
                 "repo": "octane",
                 "stars": 4051,
@@ -2682,7 +2682,7 @@
             "open_issues": 5,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5373,
+            "stars": 5375,
             "topics": [
               "alipay",
               "douyin",
@@ -2777,11 +2777,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T12:17:13Z",
+            "last_commit": "2026-10-28T13:01:23Z",
             "open_issues": 837,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57771,
+            "stars": 57787,
             "topics": [
               "android",
               "appwrite",
@@ -2926,7 +2926,7 @@
             "open_issues": 17,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 982,
+            "stars": 984,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3139,7 +3139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:19:48.208Z",
+    "last_updated": "2026-10-28T13:03:02.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
