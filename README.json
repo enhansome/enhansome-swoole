@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 5058,
+            "stars": 5061,
             "topics": [
               "agent",
               "agi",
@@ -774,10 +774,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-27T11:56:06Z",
-            "open_issues": 36,
+            "open_issues": 35,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
-            "stars": 1960,
+            "stars": 1962,
             "topics": [
               "alpine",
               "binary",
@@ -806,7 +806,7 @@
             "id": 272870557,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:47:07Z",
+            "last_commit": "2026-10-29T05:23:34Z",
             "open_issues": 1,
             "owner": "shivammathur",
             "repo": "homebrew-extensions",
@@ -925,7 +925,7 @@
             "open_issues": 192,
             "owner": "thinkcmf",
             "repo": "thinkcmf",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-09-11T11:28:01.003Z"
@@ -1127,7 +1127,7 @@
             "open_issues": 2,
             "owner": "bixuehujin",
             "repo": "blink",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "api-framework",
               "blink",
@@ -1263,7 +1263,7 @@
             "id": 35930132,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-27T11:20:12Z",
+            "last_commit": "2026-10-29T08:58:51Z",
             "open_issues": 15,
             "owner": "fastdlabs",
             "repo": "fastD",
@@ -1479,8 +1479,8 @@
             "id": 1082582067,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-27T20:47:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-29T12:31:16Z",
+            "open_issues": 0,
             "owner": "semitexa",
             "repo": "semitexa-ultimate",
             "stars": 4,
@@ -1634,7 +1634,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3875,
+                "stars": 3876,
                 "topics": [
                   "async",
                   "http",
@@ -1855,7 +1855,7 @@
                 "id": 346430655,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:21:17Z",
+                "last_commit": "2026-10-28T18:24:18Z",
                 "open_issues": 0,
                 "owner": "symfony",
                 "repo": "runtime",
@@ -2682,7 +2682,7 @@
             "open_issues": 5,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5375,
+            "stars": 5374,
             "topics": [
               "alipay",
               "douyin",
@@ -2777,11 +2777,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-28T13:01:23Z",
-            "open_issues": 837,
+            "last_commit": "2026-10-29T13:09:08Z",
+            "open_issues": 740,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57787,
+            "stars": 57788,
             "topics": [
               "android",
               "appwrite",
@@ -2926,7 +2926,7 @@
             "open_issues": 17,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3139,7 +3139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:03:02.557Z",
+    "last_updated": "2026-10-29T13:10:19.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
