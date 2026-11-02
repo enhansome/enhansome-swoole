@@ -36,13 +36,13 @@ A curated list of awesome things related to <a href="//github.com/swoole/swoole-
   * [Swoole Videos](#swoole-videos)
   * [Miscellaneous](#miscellaneous-1)
 
-NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documentation written in non-English languages. Projects labelled with emoji :jigsaw: are Hyperf components or are built on [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,913 | 🐛 455 | 🌐 PHP | 📅 2026-10-23.
+NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documentation written in non-English languages. Projects labelled with emoji :jigsaw: are Hyperf components or are built on [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,912 | 🐛 455 | 🌐 PHP | 📅 2026-10-23.
 
 ## AI
 
 *AI applications and machine learning libraries.*
 
-* [dtyq/magic](https://github.com/dtyq/magic) ⭐ 5,064 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-24 - An open-source enterprise AI agent platform with agents, workflows, and chat. Its backend is built on Hyperf. :jigsaw:
+* [dtyq/magic](https://github.com/dtyq/magic) ⭐ 5,063 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-24 - An open-source enterprise AI agent platform with agents, workflows, and chat. Its backend is built on Hyperf. :jigsaw:
 * [gptlink/gptlink](https://github.com/gptlink/gptlink) ⭐ 2,624 | 🐛 6 | 🌐 PHP | 📅 2026-08-14 - A self-hosted AI chat website with user management, paid plans, and an admin console, built on Hyperf and Vue. :globe\_with\_meridians: :jigsaw:
 * [Rubix ML] - A high-level machine learning and deep learning library for the PHP language, with optional Swoole-based multiprocessing.
 
@@ -82,7 +82,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Debugging and Profiling
 
-* [apache/skywalking-php](https://github.com/apache/skywalking-php) ⭐ 178 | 🐛 0 | 🌐 Rust | 📅 2026-10-20 - The PHP Agent for [Apache SkyWalking](https://skywalking.apache.org), which provides native tracing and PHP Health Metrics (PHM) runtime reporting for PHP and Swoole projects.
+* [apache/skywalking-php](https://github.com/apache/skywalking-php) ⭐ 178 | 🐛 0 | 🌐 Rust | 📅 2026-11-02 - The PHP Agent for [Apache SkyWalking](https://skywalking.apache.org), which provides native tracing and PHP Health Metrics (PHM) runtime reporting for PHP and Swoole projects.
 * ~~[swoole/debugger](https://github.com/swoole/debugger) ⭐ 78 | 🐛 0 | 🌐 PHP | 📅 2021-05-20~~ - A remote debugger of Swoole. By adding one line of code, you can debug your application remotely using a rich list of commands. The project has not been updated since 2021. Please use *Xdebug* instead. :globe\_with\_meridians:
 * [upscale/swoole-blackfire](https://github.com/upscalesoftware/swoole-blackfire) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2025-02-18 - [Blackfire](https://www.blackfire.io) profiler integration for Swoole web server.
 * [upscale/swoole-newrelic](https://github.com/upscalesoftware/swoole-newrelic) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2023-01-18 - New Relic APM and Browser monitoring of Swoole web server.
@@ -95,18 +95,18 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
   * [phpswoole/swoole](https://github.com/swoole/docker-swoole) ⭐ 566 | 🐛 1 | 🌐 Dockerfile | 📅 2026-10-22 - Official Docker image of Swoole.
   * [adhocore/lemp](https://github.com/adhocore/docker-lemp) ⭐ 164 | 🐛 5 | 🌐 Dockerfile | 📅 2024-09-09 - A single-container LEMP development stack with PHP 7.4–8.3, nginx, MySQL, PostgreSQL, Swoole, Redis, and other common services.
 * IDE Helper
-  * [swoole/ide-helper](https://github.com/swoole/ide-helper) ⭐ 520 | 🐛 0 | 🌐 PHP | 📅 2026-10-26 - IDE helper files to provide accurate autocompletion for Swoole.
+  * [swoole/ide-helper](https://github.com/swoole/ide-helper) ⭐ 519 | 🐛 0 | 🌐 PHP | 📅 2026-10-26 - IDE helper files to provide accurate autocompletion for Swoole.
   * [Swoole IDE Helper](https://plugins.jetbrains.com/plugin/13040-swoole-ide-helper) - Swoole IDE Helper for PhpStorm and IntelliJ IDEA. Thanks to [Luhur Abdi (Abi) Rizal](https://elabee.me) for maintaining it.
 
 ## Distribution
 
-* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,963 | 🐛 38 | 🌐 PHP | 📅 2026-11-01 - Build static PHP binary in Linux, with Swoole and other popular extensions included.
+* [static-php-cli](https://github.com/crazywhalecc/static-php-cli) ⭐ 1,963 | 🐛 35 | 🌐 PHP | 📅 2026-11-02 - Build static PHP binary in Linux, with Swoole and other popular extensions included.
 * [shivammathur/extensions](https://github.com/shivammathur/homebrew-extensions) ⭐ 824 | 🐛 1 | 🌐 Ruby | 📅 2026-10-29 - 🍻 Homebrew tap for PHP extensions.
 * [swoole-cli](https://github.com/swoole/swoole-cli) ⭐ 255 | 🐛 1 | 🌐 C | 📅 2026-10-27 - A prebuilt executable to run Swoole applications directly. No PHP installation required (just download and use it). Supports Linux, macOS, and Windows.
 
 ## Frameworks
 
-* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,913 | 🐛 455 | 🌐 PHP | 📅 2026-10-23 - A coroutine framework that focuses on hyperspeed and flexibility.
+* [Hyperf](https://github.com/hyperf/hyperf) ⭐ 6,912 | 🐛 455 | 🌐 PHP | 📅 2026-10-23 - A coroutine framework that focuses on hyperspeed and flexibility.
 * [ThinkCMF](https://github.com/thinkcmf/thinkcmf) ⭐ 2,159 | 🐛 192 | 🌐 HTML | 📅 2025-11-20 - An open-source content management framework built on ThinkPHP, supporting both PHP-FPM and Swoole modes. :globe\_with\_meridians:
 * [Mix PHP](https://github.com/mix-php/mix) ⭐ 1,925 | 🐛 3 | 🌐 PHP | 📅 2026-03-18 - A single-threaded, coroutine-based framework. :globe\_with\_meridians:
 * [Restler](https://github.com/Luracast/Restler) ⭐ 1,386 | 🐛 33 | 🌐 PHP | 📅 2026-08-22 - A zero-boilerplate REST API framework for PHP 8+, with built-in support for running under the Swoole or OpenSwoole HTTP server.
@@ -115,7 +115,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * [lizhichao/one](https://github.com/lizhichao/one) ⭐ 873 | 🐛 1 | 🌐 PHP | 📅 2026-01-21 - A simple and efficient framework that works both under PHP-FPM and Swoole.
 * [Blink](https://github.com/bixuehujin/blink) ⭐ 832 | 🐛 2 | 🌐 PHP | 📅 2026-09-09 - A high-performance web framework and application server for PHP, with built-in support for running under Swoole.
 * [Ubiquity](https://github.com/phpMv/ubiquity) ⭐ 692 | 🐛 13 | 🌐 PHP | 📅 2025-11-30 - A PHP MVC framework that can run on PHP-FPM or on async servers such as Swoole.
-* [Swoolefy](https://github.com/bingcool/swoolefy) ⭐ 508 | 🐛 2 | 🌐 PHP | 📅 2026-10-31 - A lightweight, coroutine-based API application framework built on Swoole. :globe\_with\_meridians:
+* [Swoolefy](https://github.com/bingcool/swoolefy) ⭐ 508 | 🐛 2 | 🌐 PHP | 📅 2026-11-02 - A lightweight, coroutine-based API application framework built on Swoole. :globe\_with\_meridians:
 * [Simps](https://github.com/simple-swoole/simps) ⭐ 474 | 🐛 1 | 🌐 PHP | 📅 2022-05-30 - A lightweight PHP coroutine framework.
 * [Nano](https://github.com/hyperf/nano) ⭐ 435 | 🐛 10 | 🌐 PHP | 📅 2023-10-08 - A Hyperf-based coroutine microframework. :jigsaw:
 * [fastD](https://github.com/fastdlabs/fastD) ⭐ 420 | 🐛 15 | 🌐 PHP | 📅 2026-10-30 - A high-performance PHP API framework built on the Swoole extension. :globe\_with\_meridians:
@@ -125,7 +125,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * ~~[Fomo](https://github.com/fomo-framework/fomo) ⚠️ Archived~~ - A simple, fast framework for building HTTP applications. The repository was archived by its owner in 2025.
 * [chubbyphp-framework](https://github.com/chubbyphp/chubbyphp-framework) ⭐ 136 | 🐛 0 | 🌐 PHP | 📅 2026-10-24 - A minimal, middleware-based microframework using PSR standards, with the goal of achieving the best combination of flexibility and simplicity.
 * [Polyel](https://github.com/Superbition/Polyel-Framework) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2022-02-14 - A full-stack MVC PHP framework/server built from the ground up based on Swoole.
-* [Semitexa](https://github.com/semitexa/semitexa-ultimate) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-11-01 - A modular PHP 8.4 framework running on long-lived Swoole workers, with server-side rendering and deferred blocks streamed over SSE.
+* [Semitexa](https://github.com/semitexa/semitexa-ultimate) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2026-11-02 - A modular PHP 8.4 framework running on long-lived Swoole workers, with server-side rendering and deferred blocks streamed over SSE.
 * [Hypervel](https://hypervel.org) - A Laravel-style framework with native coroutine support for high performance, built on top of Swoole.
 * [LightMVC](https://lightmvcframework.net) - A modular, event-driven and Swoole-enabled framework that makes it easy to create PHP applications using any PHP library.
 * [Utopia] - A PHP MVC based framework with minimal must-have features for professional, simple, advanced and secure web development. The Swoole server adapter ships with *Utopia* itself.
@@ -140,9 +140,9 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 * Laminas/Mezzio/Zend Framework
   * [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ⭐ 91 | 🐛 15 | 🌐 PHP | 📅 2026-10-26 - Provides Swoole support for [Mezzio](https://docs.mezzio.dev/) applications.
 * Laravel
-  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,053 | 🐛 21 | 🌐 PHP | 📅 2026-10-30 - A first-party Laravel package that boosts application performance by serving it with long-running application servers such as Swoole. Developed and maintained by the Laravel team.
+  * [Laravel Octane](https://github.com/laravel/octane) ⭐ 4,055 | 🐛 21 | 🌐 PHP | 📅 2026-10-30 - A first-party Laravel package that boosts application performance by serving it with long-running application servers such as Swoole. Developed and maintained by the Laravel team.
   * ~~[swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) ⚠️ Archived~~ - A high-performance HTTP server to run Laravel/Lumen applications on top of Swoole. The repository was archived by its owner in 2025. Its authors recommend *Laravel Octane* instead, or *Hypervel* if you need coroutine support.
-  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,877 | 🐛 70 | 🌐 PHP | 📅 2026-07-20 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+  * [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) ⭐ 3,877 | 🐛 70 | 🌐 PHP | 📅 2026-11-02 - An out-of-the-box adapter between Laravel/Lumen and Swoole.
   * ~~[scil/laravel-fly](https://github.com/scil/LaravelFly) ⚠️ Archived~~ - A package to speed up Laravel with Swoole, with preloading, coroutine support, and an online Tinker. The repository was archived by its owner in 2024. Please use *Laravel Octane* instead.
   * [huang-yi/shadowfax](https://github.com/huang-yi/shadowfax) ⭐ 349 | 🐛 12 | 🌐 PHP | 📅 2022-01-15 - Runs your Laravel application on Swoole.
   * ~~[toxmc/fast-laravel](https://github.com/toxmc/fast-laravel) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2021-05-17~~ - A Swoole-based high-performance HTTP server to speed up your Laravel applications. The project has not been updated since 2021. Please use *Laravel Octane* instead. :globe\_with\_meridians:
@@ -214,7 +214,7 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ## Third-party SDK
 
-* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,375 | 🐛 5 | 🌐 PHP | 📅 2026-10-27 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 91 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,136 | 🐛 2 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
+* [yansongda/pay](https://github.com/yansongda/pay) ⭐ 5,375 | 🐛 5 | 🌐 PHP | 📅 2026-11-02 - A payment SDK for Alipay and WeChat Pay, with components to integrate with [Hyperf](https://github.com/yansongda/hyperf-pay) ⭐ 90 | 🐛 2 | 🌐 PHP | 📅 2024-04-27, [Laravel](https://github.com/yansongda/laravel-pay) ⭐ 1,135 | 🐛 2 | 🌐 PHP | 📅 2026-03-19, and [Yii](https://github.com/guanguans/yii-pay) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-05-02. :globe\_with\_meridians:
 * [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) ⭐ 888 | 🐛 8 | 🌐 PHP | 📅 2026-09-30 - A coroutine-friendly payment SDK for Alipay and WeChat Pay. :globe\_with\_meridians:
 * [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin) ⭐ 436 | 🐛 2 | 🌐 PHP | 📅 2026-07-09 - An OAuth library that provides built-in support for QQ, WeChat, Weibo, GitHub, Gitee, etc. :globe\_with\_meridians:
 
@@ -222,15 +222,15 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 *Web-based applications and tools.*
 
-* [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 57,825 | 🐛 732 | 🌐 TypeScript | 📅 2026-11-01 - An open-source backend platform providing authentication, databases, storage, functions, messaging, and realtime APIs, built on Swoole.
-* [HyperfAdmin](https://github.com/hyperf-admin/hyperf-admin) ⭐ 430 | 🐛 7 | 🌐 PHP | 📅 2023-04-18 - An administration panel built with Swoole, Hyperf, and Vue.js. :globe\_with\_meridians: :jigsaw:
+* [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 57,850 | 🐛 741 | 🌐 TypeScript | 📅 2026-11-02 - An open-source backend platform providing authentication, databases, storage, functions, messaging, and realtime APIs, built on Swoole.
+* [HyperfAdmin](https://github.com/hyperf-admin/hyperf-admin) ⭐ 429 | 🐛 7 | 🌐 PHP | 📅 2023-04-18 - An administration panel built with Swoole, Hyperf, and Vue.js. :globe\_with\_meridians: :jigsaw:
 * [onchat](https://github.com/onch-at/onchat) ⭐ 150 | 🐛 13 | 🌐 Java | 📅 2026-10-26 - A mobile-first instant messaging progressive web application, using Swoole for its WebSocket backend. :globe\_with\_meridians:
 * ~~[wopits - A world of post-its](https://github.com/esaracco/wopits) ⚠️ Archived~~ - An app for managing projects online using sticky notes to share and collaborate. It uses Swoole as a WebSocket & Task server. The repository was archived by its owner in 2026.
 * [MineAdmin] - An administration panel built with Swoole, Hyperf, and Vue 3. :globe\_with\_meridians: :jigsaw:
 
 ## Miscellaneous
 
-* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 989 | 🐛 17 | 🌐 Rust | 📅 2026-09-27 - A Swoole-based cross-platform website crawler, cloner, and analyzer for SEO, security, accessibility, and performance audits. It runs on Windows, macOS, and Linux, and is also available as a [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 255 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 built with Svelte and Electron.
+* [siteone-crawler](https://github.com/janreges/siteone-crawler) ⭐ 994 | 🐛 17 | 🌐 Rust | 📅 2026-09-27 - A Swoole-based cross-platform website crawler, cloner, and analyzer for SEO, security, accessibility, and performance audits. It runs on Windows, macOS, and Linux, and is also available as a [desktop application](https://github.com/janreges/siteone-crawler-gui) ⭐ 255 | 🐛 17 | 🌐 Svelte | 📅 2025-06-09 built with Svelte and Electron.
 * [zhamao-framework](https://github.com/zhamao-robot/zhamao-framework) ⭐ 166 | 🐛 9 | 🌐 PHP | 📅 2026-08-12 - A chatbot system based on an award-winning project in China. :globe\_with\_meridians:
 * [yurun-crawler](https://github.com/Yurunsoft/yurun-crawler) ⭐ 41 | 🐛 0 | 🌐 PHP | 📅 2020-11-04 - A framework to build high-performance, distributed web crawler. :globe\_with\_meridians:
 * [k8s/client](https://github.com/k8s-client/client) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2023-01-28 - A Kubernetes API client for PHP, with a Swoole-based WebSocket adapter for exec, attach, and port-forwarding.
@@ -285,4 +285,4 @@ NOTE: Projects labelled with emoji :globe\_with\_meridians: have their documenta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
