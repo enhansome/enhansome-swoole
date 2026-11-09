@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 5079,
+            "stars": 5080,
             "topics": [
               "agent",
               "agi",
@@ -122,31 +122,6 @@
               "ext-zookeeper",
               "php",
               "zookeeper"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "swoole/ext-postgresql",
-          "description": "A Swoole-based PostgreSQL client. The repository has been archived by its owner. PostgreSQL support is now built into Swoole itself, enabled at compile time with the flag.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🐘 Coroutine-based client for PostgreSQL",
-            "homepage": null,
-            "id": 181596328,
-            "language": "C++",
-            "license": null,
-            "last_commit": "2022-09-28T00:32:29Z",
-            "open_issues": 13,
-            "owner": "swoole",
-            "repo": "ext-postgresql",
-            "stars": 66,
-            "topics": [
-              "coroutine",
-              "postgresql",
-              "swoole"
             ]
           },
           "first_seen": "2026-08-28T18:46:46.591Z"
@@ -773,8 +748,8 @@
             "id": 361670419,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-08T06:13:12Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-09T15:58:51Z",
+            "open_issues": 34,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1967,
@@ -880,10 +855,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-23T02:22:04Z",
-            "open_issues": 454,
+            "open_issues": 455,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6913,
+            "stars": 6914,
             "topics": [
               "amqp",
               "annotation",
@@ -1403,7 +1378,7 @@
             "id": 178733129,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-24T13:02:21Z",
+            "last_commit": "2026-11-08T20:57:11Z",
             "open_issues": 0,
             "owner": "chubbyphp",
             "repo": "chubbyphp-framework",
@@ -1542,7 +1517,7 @@
                 "id": 231146229,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T21:01:12Z",
+                "last_commit": "2026-11-09T02:25:18Z",
                 "open_issues": 16,
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
@@ -1573,7 +1548,7 @@
                 "id": 350018351,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:55:07Z",
+                "last_commit": "2026-11-09T13:47:09Z",
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
@@ -1634,7 +1609,7 @@
                 "open_issues": 70,
                 "owner": "hhxsv5",
                 "repo": "laravel-s",
-                "stars": 3879,
+                "stars": 3880,
                 "topics": [
                   "async",
                   "http",
@@ -1890,7 +1865,7 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T09:10:33Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "top-think",
                 "repo": "think-swoole",
                 "stars": 478,
@@ -2777,11 +2752,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-08T12:55:10Z",
-            "open_issues": 759,
+            "last_commit": "2026-11-09T16:29:29Z",
+            "open_issues": 761,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57890,
+            "stars": 57910,
             "topics": [
               "android",
               "appwrite",
@@ -2926,7 +2901,7 @@
             "open_issues": 17,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3139,7 +3114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:32:11.095Z",
+    "last_updated": "2026-11-09T16:30:00.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
