@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "dtyq",
             "repo": "magic",
-            "stars": 5089,
+            "stars": 5091,
             "topics": [
               "agent",
               "agi",
@@ -52,7 +52,7 @@
             "open_issues": 6,
             "owner": "gptlink",
             "repo": "gptlink",
-            "stars": 2622,
+            "stars": 2621,
             "topics": [
               "ai",
               "chatgpt",
@@ -539,8 +539,8 @@
             "id": 530879080,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T15:37:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T01:10:43Z",
+            "open_issues": 0,
             "owner": "apache",
             "repo": "skywalking-php",
             "stars": 178,
@@ -621,11 +621,11 @@
                 "id": 24048476,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T23:57:13Z",
+                "last_commit": "2026-11-17T16:03:02Z",
                 "open_issues": 0,
                 "owner": "swoole",
                 "repo": "docker-swoole",
-                "stars": 567,
+                "stars": 568,
                 "topics": [
                   "docker",
                   "swoole"
@@ -728,7 +728,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-16T01:41:16Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "crazywhalecc",
             "repo": "static-php-cli",
             "stars": 1966,
@@ -803,7 +803,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-11-10T03:21:04Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "swoole",
             "repo": "swoole-cli",
             "stars": 256,
@@ -837,7 +837,7 @@
             "open_issues": 453,
             "owner": "hyperf",
             "repo": "hyperf",
-            "stars": 6916,
+            "stars": 6917,
             "topics": [
               "amqp",
               "annotation",
@@ -1012,7 +1012,7 @@
             "open_issues": 28,
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1107,
+            "stars": 1106,
             "topics": [
               "flat-files",
               "functional",
@@ -1136,7 +1136,7 @@
             "id": 99567960,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:42:38Z",
+            "last_commit": "2026-11-17T09:29:20Z",
             "open_issues": 2,
             "owner": "bingcool",
             "repo": "swoolefy",
@@ -1391,8 +1391,8 @@
             "id": 1082582067,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:41:30Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-17T16:00:58Z",
+            "open_issues": 1,
             "owner": "semitexa",
             "repo": "semitexa-ultimate",
             "stars": 4,
@@ -1430,7 +1430,7 @@
             "open_issues": 27,
             "owner": "php-runtime",
             "repo": "runtime",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "runtime"
             ]
@@ -1454,7 +1454,7 @@
                 "id": 231146229,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T02:13:03Z",
+                "last_commit": "2026-11-17T02:33:42Z",
                 "open_issues": 15,
                 "owner": "mezzio",
                 "repo": "mezzio-swoole",
@@ -1485,7 +1485,7 @@
                 "id": 350018351,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-12T14:50:53Z",
+                "last_commit": "2026-11-17T15:17:42Z",
                 "open_issues": 20,
                 "owner": "laravel",
                 "repo": "octane",
@@ -1935,6 +1935,33 @@
         },
         {
           "node_type": "item",
+          "title": "hyperf/grpc-server",
+          "description": "The gRPC server component of Hyperf. :jigsaw:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 162799479,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-06-07T09:29:44Z",
+            "open_issues": 0,
+            "owner": "hyperf",
+            "repo": "grpc-server",
+            "stars": 4,
+            "topics": [
+              "coroutine",
+              "grpc",
+              "grpc-server",
+              "hyperf",
+              "swoole"
+            ]
+          },
+          "first_seen": "2026-08-28T18:46:46.591Z"
+        },
+        {
+          "node_type": "item",
           "title": "hyperf/grpc-client",
           "description": "The gRPC client component of Hyperf. :jigsaw:",
           "children": [],
@@ -1954,33 +1981,6 @@
               "coroutine",
               "grpc",
               "grpc-client",
-              "hyperf",
-              "swoole"
-            ]
-          },
-          "first_seen": "2026-08-28T18:46:46.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hyperf/grpc-server",
-          "description": "The gRPC server component of Hyperf. :jigsaw:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 162799479,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-06-07T09:29:44Z",
-            "open_issues": 0,
-            "owner": "hyperf",
-            "repo": "grpc-server",
-            "stars": 3,
-            "topics": [
-              "coroutine",
-              "grpc",
-              "grpc-server",
               "hyperf",
               "swoole"
             ]
@@ -2573,7 +2573,7 @@
             "open_issues": 5,
             "owner": "yansongda",
             "repo": "pay",
-            "stars": 5374,
+            "stars": 5373,
             "topics": [
               "alipay",
               "douyin",
@@ -2668,11 +2668,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T15:55:55Z",
-            "open_issues": 743,
+            "last_commit": "2026-11-17T15:47:36Z",
+            "open_issues": 744,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 58057,
+            "stars": 58228,
             "topics": [
               "android",
               "appwrite",
@@ -2817,7 +2817,7 @@
             "open_issues": 17,
             "owner": "janreges",
             "repo": "siteone-crawler",
-            "stars": 1011,
+            "stars": 1015,
             "topics": [
               "accessibility",
               "analyzer",
@@ -3030,7 +3030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:56:13.747Z",
+    "last_updated": "2026-11-17T16:08:01.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A curated list of awesome things related to Swoole.",
